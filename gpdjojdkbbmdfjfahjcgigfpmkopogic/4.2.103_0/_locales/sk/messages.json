@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Tajná"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Pridať sekciu"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Všetky nástenky"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Zdá sa, že ste sa neprihlásili na Pinterest. Poďme to napraviť!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Hej,"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Uloženie na nástenku"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Uložené na nástenku"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Vyberte si nástenku"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Uloženie nápadu na Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Vyberte najviac dvadsať obrázkov"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Vybrať sekciu"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Zrušiť"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Vytvorenie nástenky"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Uložte si obľúbené nápady online, aby ste sa k nim neskôr mohli ľahko vrátiť."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Tlačidlo Uložiť na Pintereste"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Pomocník"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Nepodarilo sa vytvoriť novú nástenku"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Získať pomoc"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Ľutujeme, niekde sa stala chyba. Skontrolujte, či ste sa prihlásili na Pinterest, a potom to skúste znova."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Hopla!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Nepodarilo sa uložiť túto stránku"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Ďalej"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Prepáčte, z tejto domény si nemôžete pripínať piny. Kontaktujte prevádzkovateľa webovej lokality, ak máte nejaké otázky."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Nie"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Áno"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Skryť plávajúce tlačidlá Uložiť"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Možnosti tlačidla Uložiť"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Uložiť"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Hľadať"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Vybrať všetky"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Prihlásiť sa"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Vytvoriť"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Najlepšie možnosti"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Navštíviť"
+   }
+}

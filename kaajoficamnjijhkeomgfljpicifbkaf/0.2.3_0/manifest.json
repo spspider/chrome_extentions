@@ -1,0 +1,25 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "./platform/background_chrome.js", "./platform/PlatformMqttClientService.js", "./platform/PlatformMqttLoadService.js" ]
+      }
+   },
+   "description": "Developers helper program to create and test MQTT connectivity protocol.",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3GuJKJRSjs/3doE9mEjTqGnl1YHSzW17GmiG2KGllsd+JuMSGSMsmMQf0r1dYeTlt+UXs3w0y4dmJzohMwoXeuX9afz9Mtx2YCh3dxS5+aHxzrkiO1/K910F8EPjYKBMFAggFCyxHPEZr0DI+dDzkUUpFfIqYfQNl2vBZInZntr10yGNXfQuwV75txb1Bj4qvCsnxERxzDZ/3BoYzP3+o5oKRm5DHY1BXMs4iMT7bTGYhjSTutiFO0KtsbiBsCCi3/3/HwKqrhG9SYT8RZ+PGR3hM7UahN+zJTMdwFg9ngbsqZFi+Ih0BQ/xCBnBEXG3iMsdNQ8tbXR9oxBxzvV/ZwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "38",
+   "name": "MQTTBox",
+   "permissions": [ "storage", "unlimitedStorage" ],
+   "short_name": "MQTTBox",
+   "sockets": {
+      "tcp": {
+         "connect": [ "*" ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.3"
+}

@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "비밀"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "보드 섹션 추가"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "모든 보드"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Pinterest에 로그인하지 않은 것 같습니다. 로그인하세요!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "잠깐!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "보드에 저장"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "저장 위치:"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "보드 선택"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Pinterest에 아이디어를 저장하세요"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "이미지를 최대 20개까지 선택하세요"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "보드 섹션 선택"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "취소"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "보드 만들기"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "나중에 쉽게 다시 찾을 수 있도록 온라인에 좋아하는 아이디어를 저장하세요."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest 저장 버튼"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "도움말"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "새 보드를 만들지 못했습니다"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "도움 받기"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "죄송합니다. 문제가 발생했습니다. Pinterest에 로그인했는지 확인하고 다시 시도하세요."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "죄송합니다!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "이 페이지를 저장하지 못했습니다"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "다음"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "죄송합니다. 이 도메인에서는 핀하기가 허용되지 않습니다. 질문이 있으시면 사이트 운영자에게 문의하시기 바랍니다."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "아니요"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "예"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "마우스 오버 저장 버튼 숨기기"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "저장 버튼 옵션"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "저장"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "검색"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "모두 선택"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "로그인"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "만들기"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "최고 인기"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "방문하기"
+   }
+}

@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "सीक्रेट"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "अनुभाग जोड़ें"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "सभी बोर्ड"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "ऐसा लगता है कि आपने Pinterest में साइन इन नहीं किया है। आइए, इसे ठीक करें!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "श्श्श्श!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "बोर्ड पर सेव करें"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "इस पर सेव किया गया"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "बोर्ड चुनें"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Pinterest पर कोई विचार सेव करें"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "बीस छवियों तक चुनें"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "अनुभाग चुनें"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "रद्द कर दें"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "बोर्ड बनाएँ"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "अपने पसंदीदा विचारों को ऑनलाइन सेव करें ताकि आप उन्हें बाद में आसानी से देख सके।"
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest सेव करें बटन"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "मदद"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "नया बोर्ड नहीं बनाया जा सका"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "मदद प्राप्त करें"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "क्षमा करें, यहाँ कुछ ऐसा है जो ठीक नहीं है। कृपया जाँच लें कि आप Pinterest में लॉग इन हैं और फिर से कोशिश करें।"
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "ओह!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "यह पेज सेव नहीं किया जा सका"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "आगे"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "क्षमा करें, इस डोमेन से पिन लगाने की अनुमति नहीं है। अगर आपका कोई प्रश्न हैं, तो कृपया साइट ऑपरेटर से संपर्क करें।"
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "नहीं"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "हाँ"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "सेव करें बटन को होवर करना छुपाएँ"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "सेव करें बटन के विकल्प"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "सेव करें"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "खोजें"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "सभी का चयन करें"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "साइन इन करें"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "बनाएँ"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "मुख्य पसंद"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "विज़िट करें"
+   }
+}

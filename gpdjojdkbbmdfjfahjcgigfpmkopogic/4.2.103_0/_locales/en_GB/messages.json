@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Secret"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Add section"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "All boards"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "It looks as though you're not signed in to Pinterest. Let's fix that!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Psst!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Save to board"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Saved to"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Choose board"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Save an idea to Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Select up to 20 images"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Choose section"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Cancel"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Create board"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Save your favourite ideas online so you can get back to them easily later."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest Save button"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Help"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Could not create new board"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Get help"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Sorry, something's not quite right here. Please check that you are logged in to Pinterest and try again."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Oops!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Could not save this page"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Next"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Sorry, Pinning is not allowed from this domain. Please contact the site operator if you have any questions."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "No"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Yes"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Hide hovering Save buttons"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Save button options"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Save"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Search"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Select all"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Sign in"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Create"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Top choices"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Visit"
+   }
+}

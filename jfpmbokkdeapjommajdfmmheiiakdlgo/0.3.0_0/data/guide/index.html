@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>One more step :: Download with JDownloader</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <h1>Integration</h1>
+    <p>For the extension to start the JDownloader instance and send links to it, one extra step is required. Please unzip and install this minimal native client to allow the extension to communicate with the external side (JDownloader Download Manager).</p>
+    <ul>
+      <li class="step1">Click <a href="#" data-cmd="download">here</a> to download the ZIP package for your operating system or click <a href="#" id="lnk" target="_blank">here</a> to browse all available download options.</li>
+      <li>Extract the downloaded package into a local directory</li>
+      <li class="linux">Now open a terminal in this directory (the directory that contains <code>install.sh</code> script) and run <code>./install.sh</code>. You can alternatively drop the <code>install.sh</code> file to a terminal window and press the Enter key!</li>
+      <li class="windows">Now double-click the <code>install.bat</code> file</li>
+    </ul>
+    <div class="flex">
+      <input type="button" data-cmd="check" value="Check Connection">
+    </div>
+    <div class="guide">
+      Installation Guide:
+      <ul>
+        <li>Windows: <a href="" id="win" target="_blank">YouTube</a></li>
+        <li>Mac &amp; Linux: <a href="" id="mac" target="_blank">YouTube</a></li>
+      </ul>
+    </div>
+    <div id="followup" data-hidden=true>
+      <h2>Native integration works!</h2>
+      If you still get this page, the native side is not responding. Most likely:
+      <ul>
+        <li>The extension cannot find the native application. Open the <a href="#" data-cmd="options">options page</a> and set the correct path</li>
+        <li>The native application is found but exited with a non successful exit code</li>
+      </ul>
+    </div>
+
+    <ul class="note">
+      <li>This extension only integrates your browser with the JDownloader download manager. You need to have the actual download manager for the extension to operate.</li>
+      <li>The installer script copies a few files to two different locations for your browser to be able to detect this native client. If you already have NodeJS in your system, the installed version of NodeJS will be used. So please make sure you have an up-to-date version of NodeJS installed. If you don't have this application, the included portable version will be used. Read more <a target="_blank" href="https://github.com/belaviyo/native-client">here</a>.</li>
+      <li>To completely remove this native client, run <code class="linux">./uninstall.sh</code><code class="windows">uninstall.bat</code>.</li>
+      <li>To check the native client's accessibility, click on the "<a href="#" data-cmd="check">Check Connection</a>" button. If you still get this page even when the "Check Button" reports successful connection, it means the application cannot be accessed (application's path is not correct in the <a href="#" data-cmd="options">options page</a>). If the path to the executable is correct and the native client is connected, you can debug the connection by <a target="_blank" href="https://www.chromium.org/for-testers/enable-logging">enabling console logs</a>.</li>
+      <li>There is no need for administration permission for the native client to operate.</li>
+    </ul>
+
+    <details>
+      <summary>Main controlling Options: The running instance of JD can be controlled using a second terminal window in which pre-defined commands can be entered using the same executable as used to start the application.</summary>
+      <pre>
+JDownloader -pause
+JDownloader -continue
+JDownloader -stop
+JDownloader -start
+JDownloader -update
+JDownloader -speed
+JDownloader -maxcon &lt;maxNumConn&gt;
+JDownloader -speed &lt;speed&gt;
+JDownloader -maxDls &lt;maxDls&gt;
+JDownloader -addwatch &lt;folderLocation&gt;
+JDownloader -remwatch &lt;folderLocation&gt;
+JDownloader -add &lt;link&gt;
+JDownloader -remove &lt;packageName&gt;
+JDownloader -order &lt;packageName&gt; &lt;newPosistionInQueue&gt;
+JDownloader -queueFirst &lt;packageName&gt;
+JDownloader -queueLast &lt;packageName&gt;
+JDownloader -force &lt;packageName&gt;
+JDownloader -quit
+      </pre>
+    </details>
+    <details>
+      <summary>Reporting: Other options such as some kind of reporting can also be integrated here.</summary>
+      <pre>
+JDownloader -status queue
+JDownloader -status downloads
+JDownloader -status all
+JDownloader -status watchfolder
+      </pre>
+    </details>
+
+    <div id="notify"></div>
+    <script src="index.js"></script>
+  </body>
+</html>

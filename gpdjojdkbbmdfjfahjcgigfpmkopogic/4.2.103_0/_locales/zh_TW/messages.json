@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "不公開"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "新增圖版版面"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "所有圖版"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "看來你尚未登入 Pinterest。讓我們先解決這個問題！"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "嘿！"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "儲存至圖版"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "已儲存至"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "選擇圖版"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "儲存點子到 Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "選擇最多二十張圖片"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "選擇圖版版面"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "取消"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "建立圖版"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "線上儲存你喜愛的點子以便日後輕鬆使用。"
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest 儲存按鈕"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "協助"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "無法建立新圖版"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "取得說明"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "很抱歉！發生了一點問題。請確認你已登入 Pinterest，然後再試一次。"
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "糟糕！"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "無法儲存此頁面"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "下一步"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "很抱歉，我們並未開放從該網域收藏 Pin。若有疑問，請聯絡網站操作人員。"
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "否"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "是"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "隱藏暫留儲存按鈕"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "儲存按鈕選項"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "儲存"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "搜尋"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "全部選取"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "登入"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "建立"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "熱門選擇"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "造訪"
+   }
+}

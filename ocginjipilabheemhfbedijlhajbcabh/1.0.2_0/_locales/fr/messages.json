@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Night Shift décale automatiquement les couleurs du contenu de votre navigateur vers l'extrémité la plus chaude du spectre de couleurs après la tombée de la nuit"
+   },
+   "name": {
+      "message": "Night Shift Redux"
+   }
+}

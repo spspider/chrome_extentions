@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "రహస్యం"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "విభాగాన్ని జోడించండి"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "అన్ని బోర్డులు"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "మీరు Pinterestకు సైన్ ఇన్ చేయనట్లు కనిపిస్తోంది. దాన్ని పరిష్కరిద్దాం!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "అయ్యో!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "బోర్డుకి సేవ్ చేయి"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "ఇందులో సేవ్ చేయబడింది"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "బోర్డుని ఎంచుకోండి"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Pinterestకు ఆలోచనను సేవ్ చేయండి"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "గరిష్టంగా ఇరవై చిత్రాల వరకు ఎంచుకోండి"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "విభాగాన్ని ఎంచుకోండి"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "రద్దు చేయి"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "బోర్డుని సృష్టించండి"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "మీకు ఇష్టమైన ఆలోచనలను ఆన్‌లైన్‌లో సేవ్ చేసుకోండి, తద్వారా మీరు వాటిని తర్వాత సులభంగా తిరిగి పొందవచ్చు."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest సేవ్ చేయి బటన్"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "సహాయం"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "కొత్త బోర్డుని సృష్టించడం సాధ్యం కాలేదు"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "సహాయం పొందండి"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "క్షమించండి, ఇక్కడ ఏదో సరిగా లేదు. దయచేసి మీరు Pinterestలోకి లాగిన్ అయ్యారని తనిఖీ చేసి, మళ్లీ ప్రయత్నించండి."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "అయ్యో!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "ఈ పేజీని సేవ్ చేయడం సాధ్యం కాలేదు"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "తరువాత"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "క్షమించండి, ఈ డొమైన్ నుండి పిన్నింగ్ అనుమతించబడదు. మీకు ఏవైనా సందేహాలు ఉన్నట్లయితే, దయచేసి వెబ్‌సైట్ ఆపరేటర్‌ను సంప్రదించండి."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "కాదు"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "అవును"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "కదులుతున్న సేవ్ చేయి బటన్‌లను దాచండి"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "సేవ్ చేయి బటన్ ఎంపికలు"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "సేవ్ చేయి"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "శోధించు"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "అన్నింటినీ ఎంచుకోండి"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "సైన్ ఇన్ చేయి"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "సృష్టించు"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "ప్రముఖ ఎంపికలు"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "సందర్శించండి"
+   }
+}

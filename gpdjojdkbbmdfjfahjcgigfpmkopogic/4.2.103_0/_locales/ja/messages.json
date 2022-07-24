@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "シークレット（非公開）"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "サブボードを追加する"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "すべてのボード"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Pinterest にログインしていないようです。今すぐログインしましょう。"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "エラー！"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "ボードに保存する"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "保存先ボード："
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "ボードを選択する"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Pinterest にアイデアを保存しよう"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "最大 20 件の画像を選択してください"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "サブボードを選択する"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "キャンセル"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "新規ボードを作成する"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "オンラインで見つけたお気に入りのアイデアを保存すると、いつでも簡単にアクセスすることができます。"
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest 保存ボタン"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "ヘルプ"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "新しいボードを作成できませんでした"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "お問い合わせ"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "エラーが発生しました。Pinterest にログインしていることを確認して、もう一度やり直してください。"
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "エラー："
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "このページを保存できませんでした"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "次へ"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "申し訳ありません。HTML 以外のページでピンを作成することはできません。画像をアップロードするには、pinterest.com にアクセスしてください。"
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "No"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Yes"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "保存のホバーボタンを非表示にする"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "保存ボタンのオプション"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "保存"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "検索"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "すべて選択する"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "ログイン"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "作成"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "人気のボード"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "アクセス"
+   }
+}

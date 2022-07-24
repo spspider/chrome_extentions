@@ -1,0 +1,24 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "showPassword.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "differential_fingerprint": "1.4e76f1d1e086a1970af974baca83e0de168e668832dd452db99594221a348ee8",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon32.png",
+      "32": "icon32.png",
+      "64": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnobaodhtOfSUDDBNgciM+mAgVTWmWbUooI0ThVHSBZRT9ENPa7kJMqR/I8QnnnbnI2I63cXUceC9Da2EeDmZRCf+TedA6KAxc6Ci5l6bhhHxZkOyJMU7NDsnpClyk2se0tS+tLGFCHD1jIbXssB8X1XrIZkz4bVboz6Av0Gk4OPrAamdfHyas/089DfH2uT+JCKub3NMbfPv+Jnl7KVLG+eKPazug5M/uEDdOkMmEcAqtGmy9xeVtfXhzDyQYyDZp+mCYqWlA6hYCjEDDDLOVa4qIEW56EqKdS0NOCPFBejbCy1sf/ww+AjZFhD7Lf6g2i3QYCJCH3SMKlJUghGSPQIDAQAB",
+   "manifest_version": 3,
+   "name": "ShowPassword",
+   "options_page": "options.html",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.1"
+}

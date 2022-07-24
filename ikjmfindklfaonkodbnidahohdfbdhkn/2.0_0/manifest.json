@@ -1,0 +1,21 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://dictation.io/"
+      },
+      "urls": [ "https://dictation.io/" ]
+   },
+   "description": "Type with your voice. Dictation turns your Google Chrome into a speech recognition app.",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "24": "icon-24.png",
+      "32": "icon-32.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDSfIDRs3y44E5NzYP8nMKhPNd1xWLe3JuI/NIQiu0Knhoa47RdQU9upFhHgOe6/vJWmegY9JivKNfmONannp0AnOqKGhRvr85LPi7dLpAD7PmnEfa8Dc2GfTWpO88ghXyMpRRskGU8HV7okgsizy+5Gn8qxhnA+uwXOtyNpLcVYQIDAQAB",
+   "manifest_version": 2,
+   "name": "Voice Recognition",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

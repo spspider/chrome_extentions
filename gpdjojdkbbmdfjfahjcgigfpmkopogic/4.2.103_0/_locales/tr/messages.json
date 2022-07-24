@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Gizli"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Bölüm Ekleyin"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Tüm panolar"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Görünüşe göre Pinterest'te oturumunuz açık değil. Bunu değiştirelim!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Dikkat!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Panoya kaydet"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Kaydedildiği pano:"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Pano seçin"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Bir fikri Pinterest'e kaydetme"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "En fazla yirmi görüntü seçin"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Bölüm Seçin"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "İptal"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Pano oluşturun"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "En beğendiğiniz fikirleri daha sonra geri dönmek için kaydedin."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest Kaydet Düğmesi"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Yardım"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Yeni pano oluşturulamadı"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Yardım al"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Üzgünüz, bir sorun oluştu. Lütfen Pinterest'te oturum açtığınızdan emin olun ve tekrar deneyin."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Hay aksi!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Bu sayfa kaydedilemedi"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "İleri"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Üzgünüz, bu alan adından Pin oluşturmaya izin verilmiyor. Sorularınız varsa lütfen site yöneticisiyle iletişime geçin."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Hayır"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Evet"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Üzerine gelindiğinde beliren Kaydet düğmelerini gizle"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Kaydet düğmesi seçenekleri"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Kaydet"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Ara"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Tümünü seç"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Oturum aç"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Oluştur"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "En iyiler"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Ziyaret et"
+   }
+}

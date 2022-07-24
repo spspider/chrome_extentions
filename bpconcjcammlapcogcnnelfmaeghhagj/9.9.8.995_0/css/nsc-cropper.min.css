@@ -1,0 +1,397 @@
+.nsc-popup-action-message {
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 15px;
+  position: fixed;
+  top: 10px;
+  width: 450px;
+  z-index: 99999999999;
+  border-radius: 8px;
+  border: 1px solid #b6b6b6;
+  font-family: Helvetica, Arial, sans-serif;
+  background: #cbcbcb;
+}
+.nsc-cropper-lens-wrapper {
+  border-radius: 3px !important;
+  border: 1px solid #b6b6b6;
+  z-index: 999999999;
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  overflow: hidden;
+}
+.nsc-cropper-lens-wrapper.right {
+  right: 10px;
+  left: auto;
+  bottom: 10px;
+  top: auto;
+}
+.nsc-cropper-lens-wrapper canvas {
+  display: flex;
+}
+.nsc-cropper-lens-wrapper div {
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+}
+.nsc-cropper-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 999999998;
+  overflow: hidden;
+  cursor: crosshair;
+}
+.nsc-cropper-outline {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+}
+.nsc-cropper-outline.outline-top {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+}
+.nsc-cropper-outline.outline-bottom {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+}
+.nsc-cropper-outline.outline-left {
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+}
+.nsc-cropper-outline.outline-right {
+  top: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+}
+.nsc-cropper-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  cursor: move;
+}
+.nsc-cropper-container.move .nsc-cropper-buttons,
+.nsc-cropper-container.move .nsc-cropper-more {
+  display: none;
+}
+.nsc-cropper-border {
+  opacity: 0.15;
+  position: absolute;
+}
+.nsc-cropper-border.border-top {
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  height: 8px;
+  cursor: n-resize;
+}
+.nsc-cropper-border.border-top-center {
+  left: 50%;
+  top: -4px;
+  height: 8px;
+  width: 8px;
+  cursor: n-resize;
+  background-color: #000000;
+  opacity: 0.3;
+}
+.nsc-cropper-border.border-bottom {
+  bottom: -4px;
+  left: -4px;
+  right: -4px;
+  height: 8px;
+  cursor: n-resize;
+}
+.nsc-cropper-border.border-bottom-center {
+  left: 50%;
+  bottom: -4px;
+  margin-top: -4px;
+  height: 8px;
+  width: 8px;
+  cursor: n-resize;
+  background-color: #000000;
+  opacity: 0.3;
+}
+.nsc-cropper-border.border-left {
+  top: 4px;
+  left: -4px;
+  bottom: 4px;
+  width: 8px;
+  cursor: e-resize;
+}
+.nsc-cropper-border.border-left-top {
+  top: -4px;
+  left: -4px;
+  width: 8px;
+  height: 8px;
+  cursor: nw-resize;
+  background-color: #000000;
+  opacity: 0.3;
+}
+.nsc-cropper-border.border-left-center {
+  left: -4px;
+  top: 50%;
+  margin-top: -4px;
+  height: 8px;
+  width: 8px;
+  cursor: e-resize;
+  background-color: #000000;
+  opacity: 0.3;
+}
+.nsc-cropper-border.border-left-bottom {
+  left: -4px;
+  bottom: -4px;
+  height: 8px;
+  width: 8px;
+  cursor: ne-resize;
+  background-color: #000000;
+  opacity: 0.3;
+}
+.nsc-cropper-border.border-right {
+  top: 4px;
+  right: -4px;
+  bottom: 4px;
+  width: 8px;
+  cursor: e-resize;
+}
+.nsc-cropper-border.border-right-top {
+  top: -4px;
+  right: -4px;
+  width: 8px;
+  height: 8px;
+  cursor: ne-resize;
+  background-color: #000000;
+  opacity: 0.3;
+}
+.nsc-cropper-border.border-right-center {
+  right: -4px;
+  top: 50%;
+  margin-top: -4px;
+  width: 8px;
+  height: 8px;
+  cursor: e-resize;
+  background-color: #000000;
+  opacity: 0.3;
+}
+.nsc-cropper-border.border-right-bottom {
+  right: -4px;
+  bottom: -4px;
+  height: 8px;
+  width: 8px;
+  cursor: nw-resize;
+  background-color: #000000;
+  opacity: 0.3;
+}
+.nsc-cropper-size {
+  position: absolute;
+  bottom: 100%;
+  right: 0;
+  top: auto;
+  white-space: nowrap;
+  background: #FFFFFF;
+  border-radius: 3px;
+  border: 1px solid #b6b6b6;
+  margin: 4px 0;
+  padding: 3px 5px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  text-align: center;
+}
+.nsc-cropper-size.inside {
+  top: 0;
+  bottom: auto;
+}
+.nsc-cropper-buttons {
+  border-radius: 3px;
+  border: 1px solid #b6b6b6;
+  display: flex;
+  flex-direction: row;
+  margin: 4px 0;
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  bottom: auto;
+  transform: translateX(-50%);
+}
+.nsc-cropper-buttons.inside {
+  top: auto;
+  bottom: 0;
+}
+.nsc-cropper-buttons .nsc-cropper-button {
+  height: 55px;
+  width: 75px;
+  background-color: #ffffff;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.nsc-cropper-buttons .nsc-cropper-button:first-child {
+  border-radius: 3px 0 0 3px;
+}
+.nsc-cropper-buttons .nsc-cropper-button:last-child {
+  border-radius: 0 3px 3px 0;
+}
+.nsc-cropper-buttons .nsc-cropper-button .nsc-cropper-button-icon {
+  display: block;
+  height: 35px;
+  transition: height 0.3s;
+  width: 35px;
+  margin: 0 auto;
+}
+.nsc-cropper-buttons .nsc-cropper-button .nsc-cropper-button-text {
+  color: #000000;
+  display: block;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  height: 0;
+  line-height: 16px;
+  overflow: hidden;
+  transition: height 0.3s;
+}
+.nsc-cropper-buttons .nsc-cropper-button:hover .nsc-cropper-button-icon {
+  height: 20px;
+}
+.nsc-cropper-buttons .nsc-cropper-button:hover .nsc-cropper-button-text {
+  height: 16px;
+}
+.nsc-cropper-buttons .nsc-cropper-button.nsc-edit .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-selection-edit-24.svg) center no-repeat;
+  background-size: contain;
+}
+.nsc-cropper-buttons .nsc-cropper-button.nsc-download .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-selection-done-24.svg) center no-repeat;
+  background-size: contain;
+}
+.nsc-cropper-buttons .nsc-cropper-button.nsc-cancel .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-selection-cancel-24.svg) center no-repeat;
+  background-size: contain;
+}
+.nsc-cropper-more {
+  line-height: 0;
+  padding-top: 5px;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  bottom: auto;
+}
+.nsc-cropper-more.inside {
+  top: auto;
+  bottom: 0;
+}
+.nsc-cropper-more:hover .nsc-cropper-more-container {
+  opacity: 1;
+  visibility: visible;
+}
+.nsc-cropper-more .nsc-cropper-button.nsc-more {
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  text-align: center;
+  background-size: 70%;
+  border-radius: 3px !important;
+  border: 2px solid #cac9c9;
+  cursor: pointer;
+  height: 40px;
+  width: 40px;
+}
+.nsc-cropper-more .nsc-cropper-button.nsc-more .nsc-cropper-button-icon {
+  display: block;
+  height: 35px;
+  width: 35px;
+  margin: 0 auto;
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-more-16.svg) center no-repeat;
+  background-size: 70%;
+}
+.nsc-cropper-more .nsc-cropper-more-container {
+  border-radius: 2px;
+  border: 2px solid #cac9c9;
+  bottom: 100%;
+  margin: 0;
+  opacity: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  visibility: hidden;
+  transition: opacity 0.3s;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button {
+  background-color: #ffffff;
+  border-radius: 0;
+  border: none;
+  cursor: pointer;
+  display: block;
+  line-height: 30px;
+  padding: 10px 10px 10px 45px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 100%;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button:hover {
+  background-color: #efefef;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button .nsc-cropper-button-icon {
+  content: '';
+  display: block;
+  height: 25px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 25px;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button .nsc-cropper-button-text {
+  color: #000000;
+  display: block;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 25px;
+  text-align: left;
+  width: 100%;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button.nsc-nimbus .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-nimbus-16.svg) no-repeat;
+  background-size: 25px;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button.nsc-slack .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-slack-16.svg) no-repeat;
+  background-size: 25px;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button.nsc-google .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-gdrive-16.svg) no-repeat;
+  background-size: 25px;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button.nsc-quick .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-quick-upload-16.svg) no-repeat;
+  background-size: 25px;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button.nsc-print .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-print-16.svg) no-repeat;
+  background-size: 25px;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button.nsc-copy .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-selection-copy-16.svg) no-repeat;
+  background-size: 25px;
+}
+.nsc-cropper-more .nsc-cropper-more-container .nsc-cropper-button.nsc-pdf .nsc-cropper-button-icon {
+  background: url(chrome-extension://__MSG_@@extension_id__/images/new/ic-pdf-16.svg) no-repeat;
+  background-size: 25px;
+}

@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Privat"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Lägg till avsnitt"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Alla anslagstavlor"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Det verkar som om du inte är inloggad på Pinterest. Låt oss fixa det!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Psst!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Spara på anslagstavla"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Sparades på"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Välj anslagstavla"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Spara en idé på Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Välj upp till 20 bilder"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Välj avsnitt"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Avbryt"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Skapa anslagstavla"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Spara dina favoritidéer online så att du enkelt kan återkomma till dem senare."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterests Spara-knapp"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Hjälp"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Det gick inte att skapa en ny anslagstavla"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Få hjälp"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Tyvärr har ett fel uppstått. Kontrollera att du är inloggad på Pinterest och försök igen."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Hoppsan!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Det gick inte att spara den här sidan"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Nästa"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Tyvärr går det inte att pinna från den här domänen. Kontakta webbplatsoperatören om du har frågor."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Nej"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Ja"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Dölj hovrande Spara-knappar"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Alternativ för Spara-knappen"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Spara"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Sök"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Välj alla"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Logga in"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Skapa"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Bästa valen"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Besök"
+   }
+}

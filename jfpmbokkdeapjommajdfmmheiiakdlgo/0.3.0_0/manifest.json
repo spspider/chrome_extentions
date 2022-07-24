@@ -1,0 +1,42 @@
+{
+   "action": {
+
+   },
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "commands": {
+      "_execute_action": {
+
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "differential_fingerprint": "1.ab8f8f1fa3541d46f21a383653a3e94a31e1ab25c79be0767ae4f20f15dc313d",
+   "homepage_url": "https://add0n.com/download-with.html?from=jdownloader",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "256": "data/icons/256.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "512": "data/icons/512.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhMBWku1bil7N18rt3dFNi+Xz2IgCdfWUZPPGSaVH8lIClZvNcASyaCk+3eQJvyGs5rjLvOv7xtlDgtVx8/rHIT0v0tE093bdW0MvYK9HepQCqwnCpxVRaoRRpkvR6l0Uhs3UCkKfHxOebtVTgojpoXb2l5sSXcSLdWc7VG5auqBT9FY1I8vS8Fv7uHELGXbG331ScDLdo356cP5my/OYo5zhLQfUPghK2Qy8Cl5MXrbwVY/9fOhFsWh6/b9o3c95OsLtCa6281wWhpyz2ivrR0s1EIMNqyTpxUqC+60hG89zG5YRgh5qhknvm8zS/Sz41i5ZaC90yaxSzcT3xZEq3wIDAQAB",
+   "manifest_version": 3,
+   "name": "Download with JDownloader",
+   "optional_host_permissions": [ "*://*/*" ],
+   "optional_permissions": [ "cookies" ],
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "data/options/index.html"
+   },
+   "permissions": [ "storage", "nativeMessaging", "notifications", "downloads", "contextMenus", "activeTab", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.3.0",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "data/grab/index.html" ]
+   } ]
+}

@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Bí mật"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Thêm phần bảng"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Tất cả các bảng"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Có vẻ như bạn chưa đăng nhập Pinterest. Để xem nào!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Khoan đã!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Lưu vào bảng"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Đã lưu vào"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Chọn bảng"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Lưu ý tưởng vào Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Chọn tối đa hai mươi hình ảnh"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Chọn phần bảng"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Hủy"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Tạo bảng"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Lưu trực tuyến ý tưởng bạn yêu thích để có thể dễ dàng quay lại sau này."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Nút Lưu của Pinterest"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Trợ giúp"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Không thể tạo bảng mới"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Nhận trợ giúp"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Rất tiếc, có gì đó không ổn. Vui lòng kiểm tra xem bạn đã đăng nhập vào Pinterest chưa và thử lại."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Rất tiếc!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Không thể lưu trang này"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Tiếp theo"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Rất tiếc, không được phép ghim từ miền này. Vui lòng liên hệ quản trị viên trang web nếu bạn có thắc mắc."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Không"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Có"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Nút Lưu ẩn hiệu ứng di chuột"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Các tùy chọn nút Lưu"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Lưu"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Tìm kiếm"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Chọn tất cả"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Đăng nhập"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Tạo"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Các lựa chọn hàng đầu"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Truy cập"
+   }
+}

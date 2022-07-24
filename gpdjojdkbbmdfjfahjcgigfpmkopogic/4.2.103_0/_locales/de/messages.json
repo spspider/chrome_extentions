@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Geheim"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Pinnwand-Ordner hinzufügen"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Alle Pinnwände"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Anscheinend bist du nicht bei Pinterest angemeldet. Das sollten wir ändern."
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Psst!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Auf Pinnwand merken"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Gemerkt auf"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Pinnwand auswählen"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Merke dir eine Idee auf Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Wähle bis zu 20 Bilder aus"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Pinnwand-Ordner wählen"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Abbrechen"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Pinnwand erstellen"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Merke dir deine Lieblingsideen online, damit du sie später einfach wiederfindest."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "„Merken“-Button von Pinterest"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Hilfe"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Neue Pinnwand konnte nicht erstellt werden"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Hilfe anfordern"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Leider ist irgendetwas schiefgegangen. Überprüfe, ob du bei Pinterest angemeldet bist, und versuche es dann noch einmal."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Tut uns leid."
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Seite konnte nicht gespeichert werden"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Weiter"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Leider kann von dieser Domain nichts gemerkt werden. Bitte kontaktiere den Betreiber der Webseite, falls du weitere Fragen hast."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Nein"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Ja"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Mouseover-„Merken“-Buttons ausblenden"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Optionen für den „Merken“-Button"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Merken"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Suchen"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Alle auswählen"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Anmelden"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Erstellen"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Beliebte Auswahl"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Besuchen"
+   }
+}

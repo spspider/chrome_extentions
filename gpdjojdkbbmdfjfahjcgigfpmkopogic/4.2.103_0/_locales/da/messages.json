@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Hemmelig"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Tilføj sektion"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Alle opslagstavler"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Du er ikke logget på Pinterest. Det kan vi gøre noget ved!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Psst!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Gem på opslagstavle"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Gemt på"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Vælg opslagstavle"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Gem en idé på Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Vælg op til tyve billeder"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Vælg sektion"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Annuller"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Opret opslagstavle"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Gem dine yndlingsidéer online, så du let kan vende tilbage til dem senere."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterests Gem-knap"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Hjælp"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Opslagstavlen kunne ikke oprettes"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Hjælp"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Der er noget galt her. Tjek, at du er logget på Pinterest, og prøv igen."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Ups!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Siden kunne ikke gemmes"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Næste"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Det er ikke muligt at tilføje pins fra domænet. Kontakt websitets ejer, hvis du har spørgsmål."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Nej"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Ja"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Skjul svævende Gem-knapper"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Indstillinger for Gem-knappen"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Gem"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Søg"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Vælg alle"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Log på"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Opret"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Topvalg"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Gå til"
+   }
+}

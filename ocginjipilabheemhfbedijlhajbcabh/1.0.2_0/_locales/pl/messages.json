@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Funkcja Night Shift automatycznie przesuwa kolory zawartości przeglądarki na cieplejszy koniec spektrum kolorów po zmroku"
+   },
+   "name": {
+      "message": "Night Shift Redux"
+   }
+}

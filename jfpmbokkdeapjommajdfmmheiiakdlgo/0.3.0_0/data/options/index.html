@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Options Page :: Download with JDownloader</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <table>
+    <colgroup>
+      <col width=150></col>
+      <col></col>
+    </colgroup>
+    <tbody>
+      <tr>
+        <td>Executable:</td>
+        <td>
+          <input type="text" id="executable" style="width: 100%; margin-top: 5px;">
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="note">Path to the JDownloader executable</td>
+      </tr>
+      <tr>
+        <td>Arguments:</td>
+        <td>
+          <input type="text" id="args" style="width: 100%; margin-top: 5px;">
+        </td>
+      </tr>
+      <tr class="hidden">
+        <td>Remote Server:</td>
+        <td>
+          <input type="text" id="remote" style="width: 100%; margin-top: 5px;">
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="note">Arguments to be passed to the JDownloader. List of supported arguments: <code>[URL]</code> (Link URL or image, video, and audio source), <code>[REFERRER]</code> (URL of the parent page), <code>[USERAGENT]</code> (User-agent string), <code>[FILENAME]</code> (Detected filename for the link. If no filename is detected, an empty string is passed), <code>[DISK]</code> (Absolute path of the detected file on the user disk. If no filename is detected, an empty string is passed), <code>[COOKIES]</code> (Absolute path to a text file containing relevant cookies) (available only if supported by the download manager).</td>
+      </tr>
+      <tr cookies>
+        <td><label for="cookies">Cookies (Chrome ≥ 102)</label></td>
+        <td><input type="checkbox" id="cookies"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="note">Send hostname-related cookies to the JDownloader (this might contain your private information, such as personal token or credential. Use it with caution)</td>
+      </tr>
+      <tr autostart>
+        <td><label for="autostart">Autostart</label></td>
+        <td><input type="checkbox" id="autostart"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="note">If unchecked, the extension requests the JDownloader to keep the jobs in the link grabber section instead of automatically start downloading them</td>
+      </tr>
+      <tr>
+        <td><label for="batch">Batch Mode</label></td>
+        <td><input type="checkbox" id="batch"></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="note">When multiple links are about to send to the external download manager, the extension can either send all of the links together or one by one. If the external download manager supports accepting multiple links in a single command, then check this box otherwise, the extension will send each link individually after a delay. For command-line downloaders, providing bulk input links usually results in downloading files sequentially.</td>
+      </tr>
+      <tr>
+        <td><label for="delay">Delay (in milliseconds)</label></td>
+        <td><input type="number" id="delay" min=50></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="note">Delay between requests when multiple jobs are about to send to the JDownloader (when the "Batch mode" is disabled)</td>
+      </tr>
+      <tr>
+        <td>Engine</td>
+        <td><select id="engine">
+          <option id="flash/add">flash/add</option>
+          <option id="flashot">flashgot</option>
+        </select> API interface</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td class="note">What pathname the extension uses to add a new downloading job. Read more at <a href="https://JDownloader.org/knowledge/wiki/glossary/cnl2" target="_blank">JDownloader.org/.../cnl2</a></td>
+      </tr>
+    </tbody>
+  </table>
+  <h1>Exclude</h1>
+  <textarea rows="3" id="mimes" placeholder="e.g. application/pdf"></textarea>
+  <p>Exclude these <a href="https://developer.mozilla.org/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types">mime-types</a> when integration is enabled (When the browser action's button is active, downloading files with the following mime-types are not being interrupted by this extension)</p>
+
+  <h1>Interrupt</h1>
+  <textarea rows="3" id="whitelist" placeholder="e.g.: google.com, bing.com"></textarea>
+  <p>Comma-separated list of hostnames to interrupt the built-in download manager (Only if the extension's interruption mode is enabled from the browser action's button. If the list is not empty, only downloading requests from these hostnames will be automatically interrupted. For all other hostnames, to send a job to the external download manager, use the right-click context menu (on-demand mode). Note that the link's hostname must belong to the actual downloadable link, not the parent page)</p>
+  <h1>Context Menu</h1>
+  <div class=group>
+    <input type="checkbox" id="context.open-link">
+    <label for="context.open-link">Display "Download Link" context menu item</label>
+    <input type="checkbox" id="context.open-video">
+    <label for="context.open-video">Display "Download Media" context menu item</label>
+    <input type="checkbox" id="context.grab">
+    <label for="context.grab">Display "Download all Links" context menu item</label>
+    <input type="checkbox" id="context.extract">
+    <label for="context.extract">Display "Extract Links from Selection" context menu item</label>
+    <input type="checkbox" id="context.test">
+    <label for="context.test">Display "Open Download Test Page" context menu item</label>
+  </div>
+
+  <p>
+    <button id="yt-linux">Linux/Mac Installation</button>
+    <button id="yt-windows">Windows Installation</button>
+    <button id="preview">Usage Preview</button>
+  </p>
+  <p>
+    <button id="test">Test Page</button>
+    <button id="reset">Factory Reset</button>
+    <button id="support">Support Development</button> - <button id="save">Save Options</button>
+    <span id="status"></span>
+  </p>
+
+  <h1>Documentation</h1>
+  <details>
+    <summary>Main controlling Options: The running instance of JD can be controlled using a second terminal window in which pre-defined commands can be entered using the same executable as used to start the application.</summary>
+    <pre>
+JDownloader -pause
+JDownloader -continue
+JDownloader -stop
+JDownloader -start
+JDownloader -update
+JDownloader -speed
+JDownloader -maxcon &lt;maxNumConn&gt;
+JDownloader -speed &lt;speed&gt;
+JDownloader -maxDls &lt;maxDls&gt;
+JDownloader -addwatch &lt;folderLocation&gt;
+JDownloader -remwatch &lt;folderLocation&gt;
+JDownloader -add &lt;link&gt;
+JDownloader -remove &lt;packageName&gt;
+JDownloader -order &lt;packageName&gt; &lt;newPosistionInQueue&gt;
+JDownloader -queueFirst &lt;packageName&gt;
+JDownloader -queueLast &lt;packageName&gt;
+JDownloader -force &lt;packageName&gt;
+JDownloader -quit
+    </pre>
+  </details>
+  <details>
+    <summary>Reporting: Other options such as some kind of reporting can also be integrated here.</summary>
+    <pre>
+JDownloader -status queue
+JDownloader -status downloads
+JDownloader -status all
+JDownloader -status watchfolder
+    </pre>
+  </details>
+
+  <script src="index.js"></script>
+</body>
+</html>

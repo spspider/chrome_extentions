@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Rahasia"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Tambahkan Bagian"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Semua papan"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Tampaknya Anda belum masuk ke Pinterest. Ayo perbaiki!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Ssst!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Simpan ke papan"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Disimpan ke"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Pilih papan"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Simpan ide ke Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Pilih hingga 20 gambar"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Pilih bagian"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Batal"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Buat papan"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Simpan ide favorit secara online agar memudahkan Anda membukanya lagi nanti."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Tombol Simpan Pinterest"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Bantuan"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Tidak bisa membuat papan baru"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Dapatkan bantuan"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Maaf, ada masalah. Pastikan Anda masuk ke Pinterest dan coba lagi."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Ups!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Tidak bisa menyimpan halaman ini"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Berikutnya"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Maaf, Anda tidak diizinkan menyimpan Pin dari domain ini. Hubungi operator situs jika punya pertanyaan."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Tidak"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Ya"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Sembunyikan tombol Simpan mengambang"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opsi tombol Simpan"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Simpan"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Cari"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Pilih semua"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Masuk"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Buat"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Pilihan teratas"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Kunjungi"
+   }
+}

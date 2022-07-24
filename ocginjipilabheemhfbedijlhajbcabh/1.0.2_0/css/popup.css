@@ -1,0 +1,378 @@
+@import url("https://fonts.googleapis.com/css?family=Hind+Madurai:100,300,400,500,700&subset=latin");
+/*_____scrollbar________________________________________________________________________________________________________*/
+::-webkit-scrollbar-button {
+  background-repeat: no-repeat;
+  width: 0;
+  height: 0;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #ecedee;
+  opacity: 0.5;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 50px;
+  background-color: #949494;
+  opacity: 0.5;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #2f4050;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+/*____________________________________________________________________________________________________________________*/
+input[type=checkbox] + label svg {
+  height: 18px;
+  border-radius: 4px;
+}
+input[type=checkbox] + label svg .outer {
+  fill: #bdbdbd;
+}
+input[type=checkbox] + label svg .inner {
+  fill: #ffffff;
+  opacity: 1;
+  height: 56px;
+  width: 56px;
+  x: 4px;
+  y: 4px;
+  rx: 4px;
+}
+input[type=checkbox]:checked + label svg .check {
+  stroke-dashoffset: 0;
+  stroke-width: 5px;
+}
+input[type=checkbox]:checked + label svg .outer {
+  fill: #1958d1;
+}
+input[type=checkbox]:checked + label svg .inner {
+  height: 0;
+  width: 0;
+  x: 16px;
+  y: 16px;
+  rx: 100px;
+}
+
+body.load input[type=checkbox] + label svg .check {
+  transition: stroke-dashoffset 0.5s ease-in-out 0.2s, stroke-width 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+body.load input[type=checkbox] + label svg .outer {
+  transition: fill 0.3s ease-out;
+}
+body.load input[type=checkbox] + label svg .inner {
+  transition: opacity 0.2s ease-in-out 0.2s, height 0.3s ease-in-out 0.3s, width 0.3s ease-in-out 0.3s, x 0.3s ease-in-out 0.3s, y 0.3s ease-in-out 0.3s, rx 0.3s ease-in-out 0.3s;
+}
+body.load input[type=checkbox]:checked + label .outer {
+  transition: fill 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+body.load input[type=checkbox]:checked + label .outer .inner {
+  transform: scale(1);
+}
+
+input[type=range] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 90px;
+  background: transparent;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  height: 2px;
+  background: #404041;
+  border: none;
+  border-radius: 3px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  border: none;
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  background: #2e95ff;
+  margin-top: -7px;
+  cursor: pointer;
+  z-index: 100;
+  position: relative;
+}
+
+input[type=range]:focus {
+  outline: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+input[type=checkbox] {
+  display: none;
+}
+
+html {
+  background: #2e2e2e;
+}
+
+body {
+  width: 250px;
+  color: #fff;
+  font-size: 14px;
+  opacity: 0;
+  transition: opacity 0.08s linear;
+  cursor: default;
+}
+body.load {
+  opacity: 1;
+}
+
+html,
+body,
+input,
+select {
+  font-family: "Hind Madurai", sans-serif;
+}
+
+input,
+select {
+  cursor: pointer;
+}
+
+.notransition * {
+  transition: none !important;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  padding: 0 20px;
+  padding-top: 5px;
+}
+header img.logo {
+  width: 26px;
+  height: auto;
+}
+header .logo-text {
+  font-size: 14px;
+  font-weight: 100;
+}
+header .controls {
+  display: flex;
+  align-items: center;
+}
+header .controls label {
+  cursor: pointer;
+}
+header .controls label input {
+  width: 20px;
+  height: 20px;
+}
+header .controls label .outer {
+  height: 20px;
+  width: 20px;
+  background: #404041;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header .controls label .outer .inner {
+  transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  width: 12px;
+  height: 12px;
+  transform: scale(0);
+  background: #2e95ff;
+  border-radius: 2px;
+}
+header .controls .settings-btn {
+  cursor: pointer;
+  margin-left: 6px;
+  height: 20px;
+  width: 20px;
+  background: #404041;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+header .controls .settings-btn .dot {
+  width: 2px;
+  height: 2px;
+  margin-top: 2px;
+  background: #9d9d9d;
+}
+header .controls .settings-btn .dot:first-child {
+  margin-top: 0;
+}
+
+main {
+  width: 250px;
+  margin: 0 auto;
+  padding: 20px;
+  padding-bottom: 20px;
+}
+main .darkmode-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+main .darkmode-row label {
+  cursor: pointer;
+}
+main .darkmode-row label input {
+  width: 20px;
+  height: 20px;
+}
+main .darkmode-row label .outer {
+  height: 20px;
+  width: 20px;
+  background: #404041;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .darkmode-row label .outer .inner {
+  transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  width: 12px;
+  height: 12px;
+  transform: scale(0);
+  background: #2e95ff;
+  border-radius: 2px;
+}
+main .schedule-row {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+main .schedule-row .label {
+  width: 60px;
+}
+main .schedule-row select {
+  width: 120px;
+  height: 30px;
+  border: none;
+  background: #404041;
+  color: #fff;
+  padding: 0 5px;
+  font-size: 12px;
+  border-radius: 5px;
+}
+main .time-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  margin-top: 25px;
+}
+main .time-row .label:first-child {
+  width: 60px;
+}
+main .time-row input[type=time] {
+  margin: 0 5px;
+  width: 76px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 12px;
+  background: #404041;
+  color: #fff;
+  border: none;
+  padding-left: 5px;
+}
+main .time-row input[type=time]::-webkit-clear-button {
+  display: none !important;
+}
+main .time-row input[type=time]::-webkit-inner-spin-button {
+  opacity: 1 !important;
+  height: 30px;
+}
+main .time-row input[type=time]:last-child {
+  margin-right: 0;
+}
+main .range-row {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+main .range-row .label {
+  margin-bottom: 10px;
+}
+main .range-row input[type=range] {
+  width: 120px;
+  margin-bottom: 6px;
+}
+main .range-row .scale {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  padding: 0 6px;
+}
+main .range-row .scale .point {
+  width: 1px;
+  height: 8px;
+  background: #5f5e5b;
+}
+main .range-row .range-labels {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  font-size: 10px;
+}
+main .colors-row {
+  padding-top: 30px;
+}
+main .colors-row .label {
+  margin-bottom: 10px;
+}
+main .colors-row .colors-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 5px;
+}
+main .colors-row .colors-box label [type=radio] {
+  display: none;
+}
+main .colors-row .colors-box label .color {
+  cursor: pointer;
+  width: 100%;
+  height: 34px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .colors-row .colors-box label [type=radio]:checked + .color:after {
+  content: "";
+  width: 20px;
+  height: 20px;
+  opacity: 0.5;
+  background: url(/img/eye.svg) center/contain no-repeat;
+}
+main .more-colors-btn {
+  border-radius: 4px;
+  background: #404041;
+  margin-top: 15px;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 34px;
+  font-size: 12px;
+}
+
+/*# sourceMappingURL=popup.css.map */

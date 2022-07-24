@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Hemmelig"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Legg til seksjon"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Alle tavler"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Det ser ikke ut som du er logget på Pinterest. Det kan vi raskt gjøre noe med."
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Psst!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Lagre på tavlen"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Lagret på"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Velg tavle"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Lagre en idé på Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Velg opptil tjue bilder"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Velg seksjon"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Avbryt"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Opprett tavle"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Lagre favorittideene dine på nettet, så blir det lett å finne dem igjen senere."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Lagre-knapp for Pinterest"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Hjelp"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Kunne ikke opprette ny tavle"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Få hjelp"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Beklager, noe er galt. Sjekk at du er logget på Pinterest, og prøv på nytt."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Oops!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Kunne ikke lagre denne siden"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Neste"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Beklager, det er ikke tillatt å lagre Pins fra dette domenet. Kontakt den som driver nettstedet, hvis du lurer på noe."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Nei"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Ja"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Skjul pekeraktiverte Lagre-knapper"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Alternativer for Lagre-knappen"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Lagre"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Søk"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Velg alle"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Logg på"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Opprett"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Populære valg"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Besøk"
+   }
+}

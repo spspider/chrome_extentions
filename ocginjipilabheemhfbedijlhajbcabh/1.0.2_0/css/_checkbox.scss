@@ -1,0 +1,49 @@
+input[type="checkbox"] {
+    & + label {
+        svg {
+            height: 18px; border-radius: 4px;
+
+            .outer { fill: #bdbdbd;}
+            .inner {
+                fill: #ffffff; opacity: 1; height: 56px; width: 56px; x: 4px; y: 4px; rx: 4px;
+            }
+        }
+    }
+
+    &:checked {
+        & + label {
+            svg {
+                .check { stroke-dashoffset: 0; stroke-width: 5px;}
+                .outer { fill: #1958d1; }
+                .inner { height: 0; width: 0; x: 16px; y: 16px; rx: 100px;}
+            }
+        }
+    }
+}
+
+
+body.load {
+    input[type="checkbox"] {
+        & + label {
+            svg {
+
+                .check {transition: stroke-dashoffset .5s ease-in-out .2s, stroke-width .3s cubic-bezier(0.68, -0.55, 0.265, 1.55);}
+                .outer {transition: fill .3s ease-out; }
+                .inner {
+                    transition: opacity .2s ease-in-out .2s, height .3s ease-in-out .3s, width .3s ease-in-out .3s, x .3s ease-in-out .3s, y .3s ease-in-out .3s, rx .3s ease-in-out .3s;
+                }
+            }
+        }
+
+        &:checked {
+            & + label {
+                .outer {
+                    transition: fill .3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+                    .inner{
+                        transform: scale(1);
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,165 @@
+body {
+  background: #efefef;
+  margin: 0;
+  height: 100%;
+}
+
+html {
+  height: 100%;
+}
+
+.settings {
+  width: 750px;
+  margin: 0 auto;
+  background: white;
+  padding: 0 30px;
+  min-height: 100%;
+  padding-bottom: 60px;
+}
+.settings h1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 0px;
+  font-size: 20px;
+  font-weight: normal;
+  color: #404041;
+}
+.settings .settings-section h2 {
+  font-weight: normal;
+  color: #404041;
+  font-size: 20px;
+}
+.settings .settings-section.mode .header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.settings .settings-section.mode .checkbox {
+  width: 20px;
+  height: 20px;
+  background: #ececec;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.settings .settings-section.mode .checkbox .dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+  transform: scale(0);
+  transition: 0.2s ease;
+  background: #62b0ff;
+}
+.settings .settings-section.mode .checkbox.checked .dot {
+  transform: scale(1);
+}
+.settings .settings-section.mode .settings-block {
+  margin-bottom: 30px;
+  margin-top: 30px;
+  position: relative;
+}
+.settings .settings-section.mode .settings-block:first-child {
+  margin-top: 0;
+}
+.settings .settings-section.mode .settings-block .input-block {
+  display: inline-flex;
+  align-items: center;
+}
+.settings .settings-section.mode .settings-block .input-block input {
+  background: #fafafa;
+  border: 1px solid #ececec;
+  outline: none;
+  font-size: 12px;
+  padding: 10px;
+  margin-left: 15px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 200px;
+}
+.settings .settings-section.mode .settings-block .input-block input::placeholder {
+  color: #d8d8d8;
+}
+.settings .settings-section.mode .settings-block .input-block .add-btn {
+  background: #62b0ff;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  height: 35.6px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  margin-left: 10px;
+}
+.settings .settings-section.mode .settings-block .title {
+  margin-left: 10px;
+  font-size: 14px;
+  display: inline-block;
+}
+.settings .settings-section.mode .settings-block .tag-editor {
+  width: 100%;
+  box-sizing: border-box;
+  height: 150px;
+  background: #fafafa;
+}
+.settings .settings-section.mode .settings-block .tag-editor li {
+  display: block;
+  float: left;
+  overflow: hidden;
+  margin: 8px 0;
+}
+.settings .settings-section.mode .settings-block .tag-editor .tag-editor-spacer {
+  padding: 0;
+  width: 6px;
+  overflow: hidden;
+  color: transparent;
+  background: none;
+}
+.settings .settings-section.color .colors-wrap {
+  display: flex;
+}
+.settings .settings-section.color .colors-wrap .selected {
+  min-width: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.settings .settings-section.color .colors-wrap .selected .color {
+  width: 120px;
+  height: 42px;
+  border-radius: 6px;
+}
+.settings .settings-section.color .colors-wrap .selected .add-btn {
+  margin-top: 12px;
+  width: 120px;
+  height: 40px;
+  color: white;
+  background: #2290FF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 6px;
+  border-bottom: 2px solid #156BC3;
+}
+.settings .settings-section.color .colors-wrap .favorites {
+  flex-grow: 1;
+  background: #fafafa;
+  border: 1px solid #ececec;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 34px 34px 34px;
+  gap: 13px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.settings .settings-section.color .colors-wrap .favorites .item {
+  height: 36px;
+  border-radius: 6px;
+}
+
+/*# sourceMappingURL=options.css.map */

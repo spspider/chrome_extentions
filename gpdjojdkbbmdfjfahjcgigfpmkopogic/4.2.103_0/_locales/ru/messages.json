@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Секретная"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Добавить раздел"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Все доски"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Похоже, вы не вошли в Pinterest. Войдите в систему."
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Ой!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Сохранить на доске"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Сохранено на доске:"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Выбор доски"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Сохраните идею в Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Выберите до двадцати изображений"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Выбрать раздел"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Отмена"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Создание доски"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Сохраняйте понравившиеся идеи в Интернете, чтобы вернуться к ним в будущем."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Кнопка «Сохранить в Pinterest»"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Справка"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Не удалось создать доску"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Справка"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Похоже, произошла ошибка. Убедитесь, что вы вошли в Pinterest, и повторите попытку."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Ой!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Не удалось сохранить страницу"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Далее"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Вы не можете сохранять пины из этого домена. Со всеми вопросами обращайтесь к администратору веб-сайта."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Нет"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Да"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Скрыть всплывающие кнопки «Сохранить»"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Параметры кнопки «Сохранить»"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Сохранить"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Поиск"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Выбрать все"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Войти"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Создать"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Лучшие варианты"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Перейти"
+   }
+}

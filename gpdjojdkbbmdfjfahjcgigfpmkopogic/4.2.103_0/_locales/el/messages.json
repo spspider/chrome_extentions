@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Κρυφό"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Προσθήκη ενότητας"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Όλοι οι πίνακες"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Όπως φαίνεται, δεν έχετε συνδεθεί στο Pinterest. Ας το διορθώσουμε!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Προσοχή!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Αποθήκευση σε πίνακα"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Αποθηκεύτηκε σε"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Επιλογή πίνακα"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Αποθηκεύστε μια ιδέα στο Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Επιλέξτε μέχρι είκοσι εικόνες."
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Επιλογή ενότητας"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Άκυρο"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Δημιουργία πίνακα"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Αποθηκεύστε τις αγαπημένες σας ιδέες online, έτσι ώστε να μπορείτε να τις δείτε αργότερα."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Κουμπί αποθήκευσης του Pinterest"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Βοήθεια"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Δεν ήταν δυνατή η δημιουργία νέου πίνακα."
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Λήψη βοήθειας"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Δυστυχώς, κάτι δεν πάει καλά. Ελέγξτε ότι είστε συνδεδεμένοι στο Pinterest και δοκιμάστε ξανά."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Ωχ!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Δεν ήταν δυνατή η αποθήκευση αυτής της σελίδας."
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Επόμενο"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Λυπούμαστε αλλά δεν επιτρέπονται pin σε αυτόν τον τομέα. Αν έχετε ερωτήσεις, επικοινωνήστε με τον διαχειριστή του ιστότοπου."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Όχι"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Ναι"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Απόκρυψη των κουμπιών αποθήκευσης κατά τη μετακίνηση πάνω από εικόνες"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Επιλογές κουμπιού αποθήκευσης"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Αποθήκευση"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Αναζήτηση"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Επιλογή όλων"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Σύνδεση"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Δημιουργία"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Δημοφιλείς επιλογές"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Μετάβαση"
+   }
+}

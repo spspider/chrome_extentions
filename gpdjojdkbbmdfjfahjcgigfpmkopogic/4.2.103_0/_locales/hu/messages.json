@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Titkos"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Táblaszakasz hozzáadása"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Minden tábla"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Úgy tűnik, hogy nem bejelentkeztél be a Pinterestbe. Ezt hozzuk helyre!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Pszt!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Mentés táblára"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Mentve ide:"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Tábla választása"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Ments egy ötletet a Pinterestre"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Válassz ki maximum húsz képet"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Táblaszakasz kiválasztása"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Mégsem"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Tábla létrehozása"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Mentsd a kedvenc ötleteidet online, hogy később könnyedén visszatérhess hozzájuk."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest Mentés gomb"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Súgó"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Az új tábla létrehozása nem sikerült"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Segítségkérés"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Sajnáljuk, valami nincs rendben. Kérjük, ellenőrizd, hogy bejelentkeztél-e a Pinterestbe, majd próbáld újra."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Hoppá!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Az oldal mentése nem sikerült"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Tovább"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Sajnáljuk, ebből a tartományból nem lehet pinelni. Kérjük, kérdéseiddel fordulj az oldal üzemeltetőjéhez."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Nem"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Igen"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "A lebegő Mentés gombok elrejtése"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "A Mentés gomb beállításai"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Mentés"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Keresés"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Összes kijelölése"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Bejelentkezés"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Létrehozás"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Legtöbbször választott"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Megnyitás"
+   }
+}

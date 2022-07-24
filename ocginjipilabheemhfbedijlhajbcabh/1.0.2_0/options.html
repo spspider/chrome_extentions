@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="./css/options.css">
+  <link rel="stylesheet" href="./css/jquery.tag-editor.css">
+  <link rel="stylesheet" href="./css/colorjoe.css">
+</head>
+
+<body>
+  <div class="settings">
+    <h1>Options</h1>
+    <div class="settings-section mode">
+      <div class="settings-block" data-mode="all">
+        <div class="header">
+          <div class="checkbox"><div class="dot"></div></div>
+          <div class="title">
+            Everywhere
+          </div>
+        </div>
+      </div>
+      <div class="settings-block" data-mode="except">
+        <div class="header">
+          <div class="checkbox"><div class="dot"></div></div>
+          <div class="title">Everywhere except:</div>
+          <div class="input-block">
+            <input type="text" placeholder="https://www.website.com/">
+            <div class="add-btn">Add</div>
+          </div>
+        </div>
+        <div class="tags"></div>
+      </div>
+      <div class="settings-block" data-mode="onlyon">
+        <div class="header">
+          <div class="checkbox"><div class="dot"></div></div>
+          <div class="title">Only on:</div>
+          <div class="input-block">
+            <input type="text" placeholder="https://www.website.com/">
+            <div class="add-btn">Add</div>
+          </div>
+        </div>
+        <div class="tags"></div>
+      </div>
+    </div>
+    <div class="settings-section color" id="color">
+      <h2>Select and add your favorite colors</h2>
+      <div class="colors-wrap">
+        <div class="picker">
+          <div id="color_picker"></div>
+        </div>
+        <div class="selected">
+          <div id="selected_color" class="color"></div>
+          <div class="add-btn">Add</div>
+        </div>
+        <div class="favorites">
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <script src="./js/lib/jquery.min.js"></script>
+  <script src="./js/lib/jquery.caret.min.js"></script>
+  <script src="./js/lib/jquery.tag-editor.min.js"></script>
+  <script src="./js/lib/colorjoe.min.js"></script>
+  <script src="./js/storage.js"></script>
+  <script src="./js/options.js"></script>
+</body>
+
+</html>

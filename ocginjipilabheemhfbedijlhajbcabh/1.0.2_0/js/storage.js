@@ -1,0 +1,1 @@
+const STORAGE={state:!0,darkmode:!1,mode:"all",onlyOnPages:[],exceptPages:[],schedule:"off",timeFrom:"18:00",timeTo:"06:00",range:50,color:"#939393",colors:["#c4ef81","#fab760","#c160f8","#f56eae","#505be9","#f50e5a","#35fc00","#8e096d","#939393"]};

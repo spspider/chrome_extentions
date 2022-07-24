@@ -1,0 +1,30 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Speech to text on any web site and in Windows and Linux applications"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store",
+      "message": "Online speech recognition"
+   },
+   "hotkeyc": {
+      "description": "Hotkey to run as start Speech Pad",
+      "message": "Start voice notebook"
+   },
+   "hotkeyd": {
+      "description": "Hotkey to run as direct access",
+      "message": "Use direct access"
+   },
+   "hotkeye": {
+      "description": "Hotkey to start/stop record",
+      "message": "Start/Stop record"
+   },
+   "hotkeyu": {
+      "description": "Hotkey to start/stop player",
+      "message": "Start/Stop player"
+   },
+   "notyfyupdmsg": {
+      "description": "Моdule updated",
+      "message": "There is new version of integration module"
+   }
+}

@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Ukryta"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Dodaj sekcję"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Wszystkie tablice"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Wygląda na to, że musisz się zalogować do Pinteresta. Zróbmy to!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Psst!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Zapisz na tablicy"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Zapisano w:"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Wybierz tablicę"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Zapisz pomysł na Pintereście"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Wybierz do 20 obrazów"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Wybierz sekcję"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Anuluj"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Utwórz tablicę"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Zapisuj ulubione pomysły online, aby móc łatwo wrócić do nich później."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Przycisk Zapisz Pinteresta"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Pomoc"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Nie udało się utworzyć nowej tablicy"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Uzyskaj pomoc"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Przepraszamy, coś poszło nie tak. Sprawdź, czy jesteś zalogowany(-a) na Pintereście, i spróbuj ponownie."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Ups!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Nie udało się zapisać tej strony"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Dalej"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Niestety przypinanie z tej domeny jest niedozwolone. Jeśli masz pytania, skontaktuj się z operatorem witryny."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Nie"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Tak"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Ukryj ruchome przyciski Zapisz"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opcje przycisku Zapisz"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Zapisz"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Szukaj"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Wybierz wszystkie"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Zaloguj się"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Utwórz"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Najczęściej wybierane"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Odwiedź"
+   }
+}

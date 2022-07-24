@@ -1,0 +1,30 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/64.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_name__"
+   },
+   "content_scripts": [ {
+      "js": [ "js/lib/moment.min.js", "js/storage.js", "js/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "img/128.png",
+      "32": "img/32.png",
+      "64": "img/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsQWrCD95nxZ+k71eTK7yfAKF3zRC1QeJnaT6nAhjgRjuzEJ1LI3WCrtK62xGq7Gzbrs6vLmmxyED6ASX0dZ8hbMYXlqT774LVnqpueYi6fxHLQPOAgLBRZKb/HcNLNbsOk95UXtw3pfvFGd6/hEupkyAxFoYHUYK+OIPgU2mQKcPpb3L4B/9QxecH8WXZjOl5J8gMTH+mw0I3mGFM5+YchS6Kji7Y4ZbJYJ6rqTXpR/ESKqcGTOjJ4B1rw5gahFmpebbblaZJdkuVcYDkOcdDdaF3j8tjHC2VtUH+xZybZYVCREgepKiLmfS/sQsW9ocGG/k+cosbKQnvLoTkj/QTwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "options.html",
+   "permissions": [ "\u003Call_urls>", "storage", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2",
+   "web_accessible_resources": [ "css/darkmode.css", "css/yt.css" ]
+}

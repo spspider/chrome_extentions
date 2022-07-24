@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Segreta"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Aggiungi sezione"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Tutte le bacheche"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Sembra che tu non abbia effettuato l'accesso su Pinterest. Rimediamo!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Psss!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Salva in una bacheca"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Salvato in"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Scegli una bacheca"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Salva un'idea su Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Seleziona fino a venti immagini"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Scegli sezione"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Annulla"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Crea bacheca"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Salva le tue idee preferite online per ritrovarle facilmente in un secondo momento."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pulsante Salva di Pinterest"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Guida"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Impossibile creare nuova bacheca"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Richiedi assistenza"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Spiacenti, si è verificato un errore. Verifica di aver effettuato l'accesso a Pinterest e riprova."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Ops!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Impossibile salvare questa pagina"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Avanti"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Spiacenti, impossibile salvare Pin da questo dominio. Contatta l'operatore del sito per eventuali domande."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "No"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Sì"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Nascondi pulsanti Salva a scomparsa"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opzioni pulsante Salva"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Salva"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Cerca"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Seleziona tutto"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Accedi"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Crea"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Scelte migliori"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Visita"
+   }
+}

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./css/popup.css">
+</head>
+<body class="notransition">
+<form id="form">
+    <header>
+        <div class="logo-text">Night Shift</div>
+        <div class="controls">
+            <input type="checkbox" id="state-checkbox" name="state" checked />
+            <label for="state-checkbox">
+                <div class="outer">
+                    <div class="inner"></div>
+                </div>
+            </label>
+            <div class="settings-btn">
+                <div class="dot"></div>
+                <div class="dot"></div>
+                <div class="dot"></div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="darkmode-row">
+            <div class="label">Dark Mode</div>
+            <input type="checkbox" id="darkmode-checkbox" name="darkmode" checked />
+            <label for="darkmode-checkbox">
+                <div class="outer">
+                    <div class="inner"></div>
+                </div>
+            </label>
+        </div>
+        <div class="schedule-row">
+            <div class="label">Schedule</div>
+            <select name="schedule">
+                <option value="sunset_to_sunrise">Sunset to Sunrise</option>
+                <option value="off">Off</option>
+                <option value="custom">Custom</option>
+            </select>
+        </div>
+        <div class="time-row">
+            <div class="label">From: </div>
+            <input type="time" name="timeFrom">
+            <div class="label">to: </div>
+            <input type="time" name="timeTo">
+        </div>
+        <div class="range-row">
+            <div class="label">Opacity</div>
+            <input type="range" name="range">
+        </div>
+        <div class="colors-row">
+            <div class="colors-box">
+                <label>
+                    <input type="radio" name="color" value="#fac563">
+                    <div class="color" style="background:#fac563;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#ff8100">
+                    <div class="color" style="background:#ff8100;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#ff9329">
+                    <div class="color" style="background:#ff9329;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#ffa500">
+                    <div class="color" style="background:#ffa500;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#f1b174">
+                    <div class="color" style="background:#f1b174;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#f55353">
+                    <div class="color" style="background:#f55353;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#c5b791">
+                    <div class="color" style="background:#c5b791;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#fae591">
+                    <div class="color" style="background:#fae591;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#f5d65b">
+                    <div class="color" style="background:#f5d65b;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#ffbffa">
+                    <div class="color" style="background:#ffbffa;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#90d6f2">
+                    <div class="color" style="background:#90d6f2;"></div>
+                </label>
+                <label>
+                    <input type="radio" name="color" value="#111111">
+                    <div class="color" style="background:#111111;"></div>
+                </label>
+            </div>
+        </div>
+        <div class="more-colors-btn">
+            More Colors
+        </div>
+    </main>
+</form>
+
+<script src="./js/lib/jquery.min.js"></script>
+<script src="./js/storage.js"></script>
+<script src="./js/popup.js"></script>
+</body>
+</html>

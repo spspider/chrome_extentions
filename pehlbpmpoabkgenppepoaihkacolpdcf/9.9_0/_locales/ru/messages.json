@@ -1,0 +1,30 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Голосовой набор текста в любые поля на веб страницах и в приложениях Windows и Linux"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Голосовой ввод текста"
+   },
+   "hotkeyc": {
+      "description": "Hotkey to run as start Speech Pad",
+      "message": "Открыть голосовой блокнот"
+   },
+   "hotkeyd": {
+      "description": "Hotkey to run as direct access",
+      "message": "Использовать прямой  доступ"
+   },
+   "hotkeye": {
+      "description": "Hotkey to start/stop record",
+      "message": "Включить/Выключить запись"
+   },
+   "hotkeyu": {
+      "description": "Hotkey to start/stop player",
+      "message": "Включить/Выключить проигрыватель"
+   },
+   "notyfyupdmsg": {
+      "description": "Обновление модуля",
+      "message": "Выпущена новая версия модуля интеграции"
+   }
+}

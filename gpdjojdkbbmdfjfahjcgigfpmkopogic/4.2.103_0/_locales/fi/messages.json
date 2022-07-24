@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "Salainen"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "Lisää osio"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "Kaikki taulut"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "Et ole kirjautunut Pinterestiin. Tee se nyt!"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "Hei!"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "Tallenna tauluun"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "Tallennettu:"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "Valitse taulu"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "Tallenna idea Pinterestiin"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "Valitse enintään 20 kuvaa"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "Valitse osio"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "Peruuta"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "Luo taulu"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Tallenna ideat vastaisen varalle nettiin, niin löydät ne helposti."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterestin tallennuspainike"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "Ohje"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "Taulun luominen epäonnistui."
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "Täältä saat apua"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "Hups! Jokin meni vikaan. Tarkista, oletko kirjautunut Pinterestiin, ja yritä uudelleen."
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "Hups!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "Sivun tallentaminen epäonnistui."
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "Seuraava"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "Et voi tehdä Pin-lisäyksiä tästä verkkotunnuksesta. Jos sinulla on kysyttävää, ota yhteyttä sivuston ylläpitäjään."
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "Ei"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "Kyllä"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Piilota osoitettaessa näytettävät tallennuspainikkeet"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Tallennuspainikkeen asetukset"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "Tallenna"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Haku"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "Valitse kaikki"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "Kirjaudu sisään"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "Luo"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "Suositut taulut"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "Käy"
+   }
+}

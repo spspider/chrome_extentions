@@ -1,0 +1,33 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icons/icon.png"
+   },
+   "commands": {
+      "toggle-qjs": {
+         "description": "Toggle JavaScript",
+         "suggested_key": {
+            "default": "Alt+Shift+Q",
+            "mac": "Command+Shift+Q"
+         }
+      }
+   },
+   "description": "Quick way to enable/disable Javascript",
+   "homepage_url": "https://github.com/maximelebreton/quick-javascript-switcher",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon.png",
+      "48": "icons/icon-48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDq+m7W7jBJGM0YSfBvx3F8x04YdKbmkXYzhKJ/bnKwaNRZAU2KmxJJrbbEf7c8gxyD9l2iXhXWxHtytrNxMxy6o2SgBKGhU4P/ZHp2elNkCpqAbHRaBz4NO+aZFu4NNyb7qbPAd+1A9cUIbjNjtWLnB/Wa2tSqi2aojWop7En0VwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "16.0",
+   "name": "Quick Javascript Switcher",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "contentSettings", "contextMenus", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.12"
+}

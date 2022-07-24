@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Night Shift cambia automáticamente los colores del contenido de su navegador al final más cálido del espectro de colores después del anochecer"
+   },
+   "name": {
+      "message": "Night Shift Redux"
+   }
+}

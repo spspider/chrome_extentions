@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Night Shift verschiebt die Farben Ihres Browserinhalts automatisch nach Einbruch der Dunkelheit zum wärmeren Ende des Farbspektrums"
+   },
+   "name": {
+      "message": "Night Shift Redux"
+   }
+}

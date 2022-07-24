@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "Button na I-save ng Pinterest",
+    "description": "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription": {
+    "message": "I-save ang mga paborito mong ideya online para madali mong mabalikan ang mga ito sa ibang pagkakataon.",
+    "description": "The extension's description, seen in gallery and extensions page"
+  },
+  "noPinDomain": {
+    "message": "Pasensya na, hindi pinapayagan ang pag-pin mula sa domain na ito. Pakikontak ang operator ng site kung mayroon kang anumang tanong.",
+    "description": "The default message we alert when someone tries to use the browser button on a forbidden domain"
+  },
+  "optionTitle": {
+    "message": "Mga opsyon ng button na I-save",
+    "description": "Title for the Options page"
+  },
+  "optionHide": {
+    "message": "Itago ang pag-hover sa mga button na I-save",
+    "description": "Text next to the checkbox that turns off hoverbuttons"
+  },
+  "searchAction": {
+    "message": "Maghanap",
+    "description": "Appears in the right-click-to-search menu item"
+  },
+  "saveAction": {
+    "message": "I-save",
+    "description": "Appears wherever we show a Save button or menu prompt"
+  },
+  "choosePinMultiSelectHeader": {
+    "message": "Mag-save ng ideya sa Pinterest",
+    "description": "New header message in the image picker overlay"
+  },
+  "choosePinSelectAllSubHeader": {
+    "message": "Pumili ng hanggang dalawampung larawan",
+    "description": "Subheader in the image picker overlay"
+  },
+  "nextAction": {
+    "message": "Susunod",
+    "description": "Press this button to go to the Create view when multiple images are selected"
+  },
+  "selectAll": {
+    "message": "Piliin lahat",
+    "description": "Text next to the checkbox that selects all images on the grid"
+  },
+  "boardPickerOpenerLabel": {
+    "message": "I-save sa board",
+    "description": "Label in inline board picker"
+  },
+  "boardPickerSuccessLabel": {
+    "message": "Na-save sa",
+    "description": "Label in inline board picker after pin creation"
+  },
+  "visitButton": {
+    "message": "Bisitahin",
+    "description": "Pin create success button to visit pin"
+  },
+  "help": {
+    "message": "Tulong",
+    "description": "Get help after a Pin create failure"
+  },
+  "chooseBoard": {
+    "message": "Pumili ng board",
+    "description": "main header in Save form"
+  },
+  "topChoices": {
+    "message": "Mga nangungunang pagpipilian",
+    "description": "interstitial header in board list"
+  },
+  "allBoards": {
+    "message": "Lahat ng board",
+    "description": "interstitial header in board list"
+  },
+  "createBoard": {
+    "message": "Gumawa ng board",
+    "description": "header in Create form"
+  },
+  "addFormSecretLabel": {
+    "message": "Sikreto",
+    "description": "label over secret/not-secret switch"
+  },
+  "chooseSection": {
+    "message": "Pumili ng seksyon",
+    "description": "label for board sections"
+  },
+  "addSection": {
+    "message": "Magdagdag ng Seksyon",
+    "description": "label to add section"
+  },
+  "optYes": {
+    "message": "Oo",
+    "description": "switch option yes"
+  },
+  "optNo": {
+    "message": "Hindi",
+    "description": "switch option no"
+  },
+  "closeAddForm": {
+    "message": "Kanselahin",
+    "description": "cancel create"
+  },
+  "submitAddForm": {
+    "message": "Gumawa",
+    "description": "create new board"
+  },
+  "msgBoardFail": {
+    "message": "Hindi makagawa ng bagong board",
+    "description": "board create fail"
+  },
+  "msgPinFail": {
+    "message": "Hindi ma-save ang page na ito",
+    "description": "pin create fail"
+  },
+  "msgLoginFail": {
+    "message": "Pasensya na, mayroong medyo hindi tama rito. Pakitingnan kung naka-log in ka sa Pinterest at subukang muli.",
+    "description": "Message shown when someone's login changes while the board picker is open"
+  },
+  "msgOops": {
+    "message": "Naku!",
+    "description": "error header"
+  },
+  "msgHelp": {
+    "message": "Humingi ng Tulong",
+    "description": "get help button"
+  },
+  "authHelpHead": {
+    "message": "Psst!",
+    "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!"
+  },
+  "authHelpBody": {
+    "message": "Mukhang hindi ka pa naka-sign in sa Pinterest. Ayusin natin 'yan!",
+    "description": "If you're not signed in, here's what we'll do when you click the button below"
+  },
+  "signIn": {
+    "message": "Mag-sign in",
+    "description": "Click this button to sign in on Pinterest"
+  }
+}

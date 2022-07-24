@@ -1,0 +1,29 @@
+{
+   "extension_description": {
+      "message": "當游標停留在密碼框時顯示密碼。"
+   },
+   "labelPreview": {
+      "message": "測試用密碼框:"
+   },
+   "labelWait": {
+      "message": "等待:"
+   },
+   "labelWhen": {
+      "message": "何時顯示密碼:"
+   },
+   "optCtrl": {
+      "message": "按下Ctrl鍵後"
+   },
+   "optDblClick": {
+      "message": "點兩下密碼框後"
+   },
+   "optFocus": {
+      "message": "選取密碼框時"
+   },
+   "optMouseOver": {
+      "message": "游標在密碼框上"
+   },
+   "optionTitle": {
+      "message": "ShowPassword 選項"
+   }
+}

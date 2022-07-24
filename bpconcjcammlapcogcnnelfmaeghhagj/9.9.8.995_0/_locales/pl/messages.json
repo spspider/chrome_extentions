@@ -1,0 +1,1340 @@
+{
+   "appDesc": {
+      "message": "Zrzut ekranu CAŁEJ strony internetowej lub dowolnej jej części. Edytuj zrzuty ekranu. Nagrywaj screencasty - nagrywaj wideo z ekranu."
+   },
+   "appName": {
+      "message": "Nimbus Screenshot & Screen Video Recorder"
+   },
+   "appNameMini": {
+      "message": "Nimbus Screenshot"
+   },
+   "btnAccessMic": {
+      "message": "Dostęp do mikrofonu i kamery"
+   },
+   "btnAndroidVersion": {
+      "message": "Wersja na Androida"
+   },
+   "btnBlankScreen": {
+      "message": "Pusty ekran"
+   },
+   "btnBrowserWindow": {
+      "message": "Zrzut pulpitu"
+   },
+   "btnCancel": {
+      "message": "Anuluj"
+   },
+   "btnCaptureFragment": {
+      "message": "Przechwyć fragment"
+   },
+   "btnCaptureFragmentScroll": {
+      "message": "Przechwytuj przewijany fragment"
+   },
+   "btnCaptureVideo": {
+      "message": "Nagraj wideo"
+   },
+   "btnConnectSlack": {
+      "message": "Połącz Slack"
+   },
+   "btnDelayedScreen": {
+      "message": "Opóźniony ekran"
+   },
+   "btnDesktop": {
+      "message": "Przechwytywanie z pulpitu"
+   },
+   "btnEnableCopy": {
+      "message": "Skopiuj do schowka"
+   },
+   "btnEntirePage": {
+      "message": "Cała strona"
+   },
+   "btnGoPremium": {
+      "message": "Przejdź na Nimbus dla Firm"
+   },
+   "btnLearnMore": {
+      "message": "Dowiedz się więcej"
+   },
+   "btnManual": {
+      "message": "Instrukcja"
+   },
+   "btnOkGotIt": {
+      "message": "Ok, rozumiem"
+   },
+   "btnReadyVideo": {
+      "message": "Jestem gotowy do nagrywania wideo"
+   },
+   "btnSelectedArea": {
+      "message": "Wybrany obszar"
+   },
+   "btnSelectedScroll": {
+      "message": "Wybierz i przewiń"
+   },
+   "btnSignupUpToViewUpload": {
+      "message": "Zarejestruj się, aby zobaczyć przesłane pliki"
+   },
+   "btnVisiblePage": {
+      "message": "Widoczna część strony"
+   },
+   "cropBtnCancel": {
+      "message": "Anuluj"
+   },
+   "cropBtnCopy": {
+      "message": "Skopiuj do schowka"
+   },
+   "cropBtnEdit": {
+      "message": "Edytuj"
+   },
+   "cropBtnNimbus": {
+      "message": "Wyślij do Nimbusa"
+   },
+   "cropBtnSave": {
+      "message": "Zapisz"
+   },
+   "cropBtnSavePdf": {
+      "message": "Zapisz do PDF"
+   },
+   "disable": {
+      "message": "Wyłącz"
+   },
+   "editBtnBack": {
+      "message": "Wróć"
+   },
+   "editBtnCopy": {
+      "message": "Skopiuj do schowka"
+   },
+   "editBtnDiscard": {
+      "message": "Odrzuć"
+   },
+   "editBtnDone": {
+      "message": "Gotowe"
+   },
+   "editBtnDrive": {
+      "message": "Google Drive"
+   },
+   "editBtnDropbox": {
+      "message": "Dropbox"
+   },
+   "editBtnNimbusScreen": {
+      "message": "Prześlij zrzut ekranu"
+   },
+   "editBtnNimbusVideo": {
+      "message": "Prześlij wideo"
+   },
+   "editBtnPrint": {
+      "message": "Drukuj"
+   },
+   "editBtnSave": {
+      "message": "Zapisz jako obraz"
+   },
+   "editBtnSavePDF": {
+      "message": "Zapisz jako PDF"
+   },
+   "editBtnSaveVideo": {
+      "message": "Zapisz wideo"
+   },
+   "editBtnSlack": {
+      "message": "Slack"
+   },
+   "editBtnYoutube": {
+      "message": "Youtube"
+   },
+   "editVideoTitle": {
+      "message": "Edytor wideo"
+   },
+   "gDriveBtnDone": {
+      "message": "Gotowe"
+   },
+   "gDriveLabel": {
+      "message": "Wybierz folder, w którym chcesz zapisać zrzut ekranu"
+   },
+   "gDriveLabelFolders": {
+      "message": "Zrzut ekranu zostanie zapisany"
+   },
+   "gDriveLogout": {
+      "message": "Wyloguj"
+   },
+   "gDriveLogoutFrom": {
+      "message": "Wyloguj się z"
+   },
+   "gDriveMainFolder": {
+      "message": "To jest główny folder"
+   },
+   "gDriveNoItems": {
+      "message": "Brak elementów"
+   },
+   "gDriveNotAuthorized": {
+      "message": "Nie jesteś zalogowany na swoje konto"
+   },
+   "gDriveSendTo": {
+      "message": "Wyslij do"
+   },
+   "gDriveTitle": {
+      "message": "Wyslij do Google Drive"
+   },
+   "gDriveUploadPrivate": {
+      "message": "Prześlij jako prywatny"
+   },
+   "hotKeys": {
+      "message": "Skróty klawiszowe"
+   },
+   "labelCaptureHelper": {
+      "message": "Wybierz jeden z ekranów do Snap'a!"
+   },
+   "labelDropImage": {
+      "message": "upuść obraz tutaj"
+   },
+   "labelPreviewLoading": {
+      "message": "Ładowanie..."
+   },
+   "labelPreviewLoadingVideo": {
+      "message": "Przetwarzanie wideo - proszę czekać..."
+   },
+   "labelRedactorLoading": {
+      "message": "Ładowanie. Proszę czekać…"
+   },
+   "newReleaseText": {
+      "message": "\u003Cli>Nowy projekt;\u003C/li>\u003Cli>Blokada uniemożliwiająca edycję elementów;\u003C/li>\u003Cli>Opóźniony zrzut ekranu;\u003C/li>\u003Cli>Możliwość dostosowania menu głównego, usuwając niepotrzebne elementy;\u003C/li>\u003Cli>Możliwość celowego dodawania cyfr obok potrzebnych kształtów;\u003C/li>\u003Cli>Możliwość szybkiego wysłania do Nimbus/Slack z edytora za pomocą skrótu Ctrl+Enter;\u003C/ li>\u003Cli>Naprawiono kilka innych błędów;\u003C/li>"
+   },
+   "newReleaseTitle": {
+      "message": "Witamy w nowej wersji Nimbus Screenshot"
+   },
+   "nimbusAccessAnyTimes": {
+      "message": "Uzyskaj dostęp do zrzutów ekranu i screencastów w dowolnym momencie i z dowolnego urządzenia;"
+   },
+   "nimbusAccount": {
+      "message": "Konto Nimbus"
+   },
+   "nimbusBad": {
+      "message": "Źle"
+   },
+   "nimbusBannedDeviceDestruction": {
+      "message": "To urządzenie zostało przez Ciebie zbanowane."
+   },
+   "nimbusBeBetter": {
+      "message": "Bądź lepszy"
+   },
+   "nimbusBtnAuthFacebook": {
+      "message": "Using Facebook"
+   },
+   "nimbusBtnAuthGoogle": {
+      "message": "Korzystanie z Google"
+   },
+   "nimbusBtnLogin": {
+      "message": "Zaloguj się do Nimbus Note"
+   },
+   "nimbusBtnRemind": {
+      "message": "Zapomniałeś hasła?"
+   },
+   "nimbusBtnSignup": {
+      "message": "Utwórz konto"
+   },
+   "nimbusCaptureUpgradePremium": {
+      "message": "Więcej funkcji dzięki\u003Cbr>Nimbus Capture Business"
+   },
+   "nimbusCaptureUpgradePro": {
+      "message": "Więcej funkcji dzięki\u003Cbr>Nimbus Capture Pro"
+   },
+   "nimbusChannels": {
+      "message": "Kanały"
+   },
+   "nimbusComment": {
+      "message": "Komentarz"
+   },
+   "nimbusCommentPlaceholder": {
+      "message": "Skomentuj swój zrzut ekranu"
+   },
+   "nimbusCreateAccount": {
+      "message": "Stwórz darmowe konto"
+   },
+   "nimbusDid": {
+      "message": "Zrobione"
+   },
+   "nimbusEducationDiscounts": {
+      "message": "Zniżki dla edukacji"
+   },
+   "nimbusEnter": {
+      "message": "Zaloguj się do Nimbus Note"
+   },
+   "nimbusEnvironmentInfo": {
+      "message": "Dodaj informacje o systemie i stronie"
+   },
+   "nimbusFragmentScrollTitle": {
+      "message": "W tym trybie możesz zrobić zrzut ekranu oddzielnych fragmentów z przewijaniem strony. Na przykład może to być okno czatu, panel sterowania usługą lub okno zadań w Jira. Nasza aplikacja automatycznie wykryje takie obszary, dzięki czemu będziesz mógł wybrać ten, którego potrzebujesz."
+   },
+   "nimbusGoPro": {
+      "message": "Uaktualnij do Nimbus Pro"
+   },
+   "nimbusGood": {
+      "message": "Dobrze!"
+   },
+   "nimbusHelp": {
+      "message": "Pomoc"
+   },
+   "nimbusIncreaseLimit": {
+      "message": "Zwiększ limit"
+   },
+   "nimbusInfoAgent": {
+      "message": "Agent użytkownika"
+   },
+   "nimbusInfoBrowser": {
+      "message": "Przeglądarka użytkownika"
+   },
+   "nimbusInfoPage": {
+      "message": "Strona internetowa"
+   },
+   "nimbusInfoPlatform": {
+      "message": "Platforma użytkownika"
+   },
+   "nimbusInfoScreen": {
+      "message": "Rozdzielczość ekranu"
+   },
+   "nimbusIsBusiness": {
+      "message": "Mam Nimbus Business"
+   },
+   "nimbusIsPro": {
+      "message": "Mam Nimbusa Pro"
+   },
+   "nimbusLabelEmail": {
+      "message": "Email"
+   },
+   "nimbusLabelPassword": {
+      "message": "Hasło"
+   },
+   "nimbusLabelPasswordAndInfo": {
+      "message": "Hasło (min. 8 znaków)"
+   },
+   "nimbusLabelRetypePass": {
+      "message": "Wpisz ponownie hasło"
+   },
+   "nimbusLimitDescription": {
+      "message": "Możesz przełączyć się na Nimbus Pro, aby zwiększyć miesięczny limit danych do 1 GB."
+   },
+   "nimbusLimitDeviceDestruction": {
+      "message": "Jeśli chcesz używać Nimbus Capture na więcej niż dwóch urządzeniach, musisz zaktualizować swój plan."
+   },
+   "nimbusLimitDeviceTitle": {
+      "message": "Twoje konto Nimbus Capture jest już używane na maksymalnej liczbie urządzeń."
+   },
+   "nimbusLimitOf": {
+      "message": "z"
+   },
+   "nimbusLimitSpace": {
+      "message": "Nie możesz przesłać tego pliku, ponieważ prawie osiągnąłeś miesięczny limit danych wynoszący 100 MB."
+   },
+   "nimbusLimitUsage": {
+      "message": "Użycie:"
+   },
+   "nimbusLimitVideo": {
+      "message": "Ten film jest za duży! Ale nie jest stracony..."
+   },
+   "nimbusLimitVideoDestruction": {
+      "message": "Maksymalny rozmiar pliku dla Nimbus Pro = 1 GB. Napisz do \u003Cb>team@nimbusweb.co\u003C/b>, aby zwiększyć limit plików."
+   },
+   "nimbusLimitVideoDestructionFree": {
+      "message": "Maks. rozmiar pliku dla darmowych kont = 10 MB Zaktualizuj do Nimbus Pro, aby zwiększyć limit plików."
+   },
+   "nimbusLimitVideoDestructionOrgFree": {
+      "message": "Plik przekracza maksymalny dozwolony rozmiar dla bezpłatnego konta (10 MB). Skontaktuj się z właścicielem obszaru roboczego, aby uzyskać więcej informacji."
+   },
+   "nimbusLimitVideoDestructionOrgLimit": {
+      "message": "Plik nie zostanie zapisany w Nimbus Note, ponieważ osiągnięto miesięczny limit ruchu (100 MB). Przejdź na plan premium, aby zwiększyć swój limit."
+   },
+   "nimbusLimitVideoDestructionOrgPremium": {
+      "message": "Plik przekracza maksymalny dozwolony rozmiar dla konta (1 GB). Skontaktuj się z właścicielem obszaru roboczego, aby uzyskać więcej informacji."
+   },
+   "nimbusLimitVideoDestructionStreamMonth": {
+      "message": "W bezpłatnym abonamencie możesz nagrywać nie więcej niż 60 filmów miesięcznie. Przejdź do planu Nimbus Pro, aby usunąć ograniczenie."
+   },
+   "nimbusLimitVideoDestructionStreamTime": {
+      "message": "Ważne! W bezpłatnym abonamencie możesz nagrać wideo o długości do 5 minut. Przejdź na Nimbus Pro, aby nagrywać dłuższe filmy."
+   },
+   "nimbusLimitVideoDurationDestruction": {
+      "message": "Rozpoczął się Twój 7-dniowy okres próbny. Możesz teraz nagrywać wideo bez ograniczeń rozmiaru. Po zakończeniu okresu próbnego możesz nagrywać wideo o czasie trwania nie dłuższym niż 5 minut. Uaktualnij do Nimbus Pro, aby aktywować nieograniczone nagrywanie."
+   },
+   "nimbusLimitVideoFree": {
+      "message": "Ten film jest za duży! Ale nie jest stracone..."
+   },
+   "nimbusLimitVideoOrgFree": {
+      "message": "Ten film jest za duży! Ale nie jest stracone..."
+   },
+   "nimbusLimitVideoOrgLimit": {
+      "message": "Ten film jest za duży! Ale nie jest stracone..."
+   },
+   "nimbusLimitVideoOrgPremium": {
+      "message": "Ten film jest za duży! Ale nie jest stracone..."
+   },
+   "nimbusLimitVideoStreamMonth": {
+      "message": "Nie możesz już nagrywać..."
+   },
+   "nimbusLimitVideoStreamTime": {
+      "message": "Nie możesz już nagrywać..."
+   },
+   "nimbusLogout": {
+      "message": "Wyloguj się z Nimbus Note"
+   },
+   "nimbusManageDevices": {
+      "message": "Zarządzaj urządzeniami"
+   },
+   "nimbusNoThanks": {
+      "message": "Nie, dziękuję"
+   },
+   "nimbusNotAccount": {
+      "message": "Nie mam konta"
+   },
+   "nimbusNoteName": {
+      "message": "Nazwa notatki"
+   },
+   "nimbusOr": {
+      "message": "lub"
+   },
+   "nimbusOrganizeUploadFolders": {
+      "message": "Uporządkuj przesłane pliki według folderów, podfolderów i tagów;"
+   },
+   "nimbusPlaceholderEmail": {
+      "message": "Email"
+   },
+   "nimbusPlaceholderEnterText": {
+      "message": "Wpisz tekst"
+   },
+   "nimbusPlaceholderPassword": {
+      "message": "Hasło"
+   },
+   "nimbusPrivate": {
+      "message": "Prywatny"
+   },
+   "nimbusPrivateMessage": {
+      "message": "Prywatna wiadomość"
+   },
+   "nimbusProAddWaterMark": {
+      "message": "Dodaj swój znak wodny do oznakowania"
+   },
+   "nimbusProConvertGIF": {
+      "message": "Konwertuj wideo na GIF"
+   },
+   "nimbusProConvertMP4": {
+      "message": "Konwertuj wideo na MP4"
+   },
+   "nimbusProCropVideo": {
+      "message": "Przytnij swój film"
+   },
+   "nimbusProSendDropbox": {
+      "message": "Wysyłaj obrazy i filmy do Dropboxa"
+   },
+   "nimbusProSendGoogleDrive": {
+      "message": "Przesyłaj obrazy i filmy na Dysk Google"
+   },
+   "nimbusProSendGoogleDrive2": {
+      "message": "Prześlij jako publiczny lub prywatny link do Dysku Google"
+   },
+   "nimbusProSendGoogleDriveFirefox": {
+      "message": "Prześlij obrazy na Dysk Google"
+   },
+   "nimbusProSendYoutube": {
+      "message": "Wyślij wideo na Youtube"
+   },
+   "nimbusProSupport": {
+      "message": "Wsparcie priorytetowe"
+   },
+   "nimbusProTrimVideo": {
+      "message": "Przytnij swój film"
+   },
+   "nimbusProVideoLimit": {
+      "message": "Nielimitowane nagrania"
+   },
+   "nimbusRate": {
+      "message": "Podoba Ci się Nimbus Screenshoot? Oceń go!"
+   },
+   "nimbusRateUs": {
+      "message": "Oceń nas"
+   },
+   "nimbusRegistration": {
+      "message": "Rejestracja"
+   },
+   "nimbusRemindPass": {
+      "message": "Przypomnij hasło"
+   },
+   "nimbusSaveScreencast": {
+      "message": "Zapisz screencast"
+   },
+   "nimbusSaveScreenshot": {
+      "message": "Zapisz zrzut ekranu"
+   },
+   "nimbusSearch": {
+      "message": "Szukaj"
+   },
+   "nimbusSelectChannel": {
+      "message": "Wybierz kanał"
+   },
+   "nimbusSelectFolder": {
+      "message": "Katalog"
+   },
+   "nimbusSelectOrganization": {
+      "message": "Organizacja"
+   },
+   "nimbusSelectWorkspace": {
+      "message": "Obszar roboczy"
+   },
+   "nimbusSend": {
+      "message": "Wyślij do Nimbus Note"
+   },
+   "nimbusShareFriends": {
+      "message": "Wysyłaj zrzuty ekranu i screencasty do przyjaciół i współpracowników;"
+   },
+   "nimbusSlackAccount": {
+      "message": "Konto Slack"
+   },
+   "nimbusSlackHidePanel": {
+      "message": "Ukryj panel Slacka"
+   },
+   "nimbusSlackLogout": {
+      "message": "Wyloguj się ze Slacka"
+   },
+   "nimbusSlackSend": {
+      "message": "Wyślij do Slacka"
+   },
+   "nimbusSlackWelcome": {
+      "message": "Poświęć chwilę na przeczytanie:"
+   },
+   "nimbusSlackWelcome2": {
+      "message": "Nimbus Screenshot nie będzie miał dostępu do wiadomości w pokojach rozmów. Wszystkie Twoje rozmowy pozostaną prywatne. Nimbus Screenshot może przesyłać zrzuty tylko w Slacku"
+   },
+   "nimbusSlackWelcome3": {
+      "message": "Jeśli masz jakieś pytania, napisz na e-mail"
+   },
+   "nimbusStreamDestruction": {
+      "message": "Aby korzystać z trybu strumieniowego/natychmiastowego, musisz mieć konto Nimbus Note."
+   },
+   "nimbusStreamStartDestruction": {
+      "message": "Nimbus Capture będzie potrzebować dostępu do mikrofonu i kamery, aby nagrywać wideo z jednorazowym pozwoleniem."
+   },
+   "nimbusStreamStartTitle": {
+      "message": "Dziękujemy za rejestrację.\u003Cbr>Aby rozpocząć nagrywanie, po prostu kliknij Rozpocznij nagrywanie natychmiastowe."
+   },
+   "nimbusStreamTitle": {
+      "message": "Szybkość to główna zaleta korzystania z rejestratora ekranu w trybie strumieniowym/natychmiastowym. W momencie zatrzymania nagrywania wideo jest już na serwerze i nie musisz czekać na zakończenie przesyłania."
+   },
+   "nimbusSupportMenu": {
+      "message": "Wsparcie"
+   },
+   "nimbusThanksYou": {
+      "message": "Dziękuję za informację"
+   },
+   "nimbusUpgradePro": {
+      "message": "Dlaczego Nimbus Pro jest lepszy"
+   },
+   "nimbusViewUploads": {
+      "message": "Zobacz moją notatkę Nimbus"
+   },
+   "nimbusViewUploadsToDropbox": {
+      "message": "Otwórz plik w Dropbox"
+   },
+   "nimbusYoutubeSend": {
+      "message": "Opublikuj na Youtube"
+   },
+   "notificationCopy": {
+      "message": "Obraz został skopiowany do schowka."
+   },
+   "notificationCrop": {
+      "message": "Przeciągnij i przechwyć stronę (naciśnij Esc, aby wyjść)"
+   },
+   "notificationDesktopDrawingTools": {
+      "message": "Narzędzia do rysowania nie są dostępne w trybie nagrywania pulpitu. Zamiast tego użyj nagrywania karty."
+   },
+   "notificationDesktopTabSound": {
+      "message": "Dźwięk systemowy nie jest dostępny w trybie nagrywania pulpitu. Zamiast tego użyj nagrywania karty."
+   },
+   "notificationDesktopVideoCamera": {
+      "message": "Kamera wideo nie jest dostępna w trybie nagrywania pulpitu. Zamiast tego użyj nagrywania karty."
+   },
+   "notificationEmailFail": {
+      "message": "Ten email jest już zarejestrowany."
+   },
+   "notificationEmailIncorrect": {
+      "message": "Nieprawidłowy email. Proszę spróbuj ponownie."
+   },
+   "notificationErrorActiveTab": {
+      "message": "Nimbus Capture nie może rozpocząć nagrywania podczas inicjalizacji. Aby aktywować rozszerzenie, musisz kliknąć ikonę Nimbus Capture na panelu."
+   },
+   "notificationErrorChromeTab": {
+      "message": "Zapisywanie wewnętrznych stron Chrome lub stron aplikacji nie jest obecnie obsługiwane."
+   },
+   "notificationImageCopied": {
+      "message": "Skopiowane"
+   },
+   "notificationImageNotCopied": {
+      "message": "Nie udało się skopiować"
+   },
+   "notificationInsertInfo": {
+      "message": "Możesz wstawić tylko obraz."
+   },
+   "notificationLoginFail": {
+      "message": "Nieprawidłowy login lub hasło. Proszę spróbuj ponownie"
+   },
+   "notificationNetworkError": {
+      "message": "Problem z serwerem lub połączeniem internetowym. Proszę spróbuj ponownie."
+   },
+   "notificationReachedLimit": {
+      "message": "Osiągnąłeś miesięczny limit ruchu (100 MB). Aby kontynuować, musisz kupić Nimbus Pro."
+   },
+   "notificationRegisterFail": {
+      "message": "Rejestracja nie powiodła się. Proszę spróbuj ponownie."
+   },
+   "notificationRestoreSent": {
+      "message": "Instrukcje przywracania zostały wysłane na Twój adres e-mail."
+   },
+   "notificationUploaded": {
+      "message": "Przesyłanie zostało zakończone."
+   },
+   "notificationUrlCopied": {
+      "message": "URL został skopiowany do schowka"
+   },
+   "notificationWrong": {
+      "message": "Coś źle poszło. Proszę spróbuj ponownie."
+   },
+   "onlyForChrome": {
+      "message": "Tylko dla Chrome'a"
+   },
+   "onlyForFirefox": {
+      "message": "Tylko dla Chrome'a"
+   },
+   "optionLabelEnableWatermark": {
+      "message": "Dodaj znak wodny"
+   },
+   "optionLabelEnableWatermarkTimer": {
+      "message": "Ukryj znak wodny w filmie po"
+   },
+   "optionLabelWatermarkFont": {
+      "message": "Czcionka"
+   },
+   "optionLabelWatermarkFontColor": {
+      "message": "Kolor"
+   },
+   "optionLabelWatermarkFontSize": {
+      "message": "Rozmiar"
+   },
+   "optionLabelWatermarkImage": {
+      "message": "Obraz"
+   },
+   "optionLabelWatermarkSelectFile": {
+      "message": "Wybierz plik"
+   },
+   "optionLabelWatermarkSelectPosition": {
+      "message": "Wybierz pozycję znaku wiodnego"
+   },
+   "optionLabelWatermarkSize": {
+      "message": "Rozmiar znaku wodnego:"
+   },
+   "optionLabelWatermarkSizeLarge": {
+      "message": "Duży"
+   },
+   "optionLabelWatermarkSizeSmall": {
+      "message": "Mały"
+   },
+   "optionLabelWatermarkText": {
+      "message": "Tekst"
+   },
+   "optionLabelWatermarkTimer1": {
+      "message": "1 sec"
+   },
+   "optionLabelWatermarkTimer10": {
+      "message": "10 sek"
+   },
+   "optionLabelWatermarkTimer30": {
+      "message": "30 sek"
+   },
+   "optionLabelWatermarkTimer5": {
+      "message": "5 sek"
+   },
+   "optionLabelWatermarkTimer60": {
+      "message": "1 min"
+   },
+   "optionLabelWatermarkTransparent": {
+      "message": "Przezroczystość znaku wodnego:"
+   },
+   "optionLabelWatermarkTransparentLarge": {
+      "message": "Duży"
+   },
+   "optionLabelWatermarkTransparentSmall": {
+      "message": "Bez przezroczystości"
+   },
+   "optionSelectGithubSend": {
+      "message": "Zapisz przez Github"
+   },
+   "optionSelectGithubSendNimbus": {
+      "message": "Wyślij do Nimbus po Githubie"
+   },
+   "optionSelectSendDone": {
+      "message": "Otwórz okno przesyłania"
+   },
+   "optionSelectSendDoneVideo": {
+      "message": "Otwórz stronę przesyłania/konwertowania"
+   },
+   "optionSelectSendDownload": {
+      "message": "Wyślij do Google'a/Slacka/Dropboxa"
+   },
+   "optionSelectSendDropbox": {
+      "message": "Wyślij do Dropbox'a"
+   },
+   "optionSelectSendEdit": {
+      "message": "Edytuj"
+   },
+   "optionSelectSendGoogle": {
+      "message": "Wyślij do Google'a"
+   },
+   "optionSelectSendNimbus": {
+      "message": "Wyślij do Nimbusa"
+   },
+   "optionSelectSendQuick": {
+      "message": "Szybkie przesyłanie"
+   },
+   "optionSelectSendSave": {
+      "message": "Pobierz"
+   },
+   "optionSelectSendYoutube": {
+      "message": "Wyślij do Youtube'a"
+   },
+   "optionsCaptureSettings": {
+      "message": "Ustawienia zrzutu ekranu"
+   },
+   "optionsGeneral": {
+      "message": "Ogólne"
+   },
+   "optionsLabelAfterClicking": {
+      "message": "Po kliknięciu w ikonę"
+   },
+   "optionsLabelAndThen": {
+      "message": "i wtedy"
+   },
+   "optionsLabelAutoShortUrl": {
+      "message": "Automatycznie skrócony adres URL po przesłaniu"
+   },
+   "optionsLabelCanUse": {
+      "message": "Dostępne oznaczenia:"
+   },
+   "optionsLabelDelayedScreenshotTime": {
+      "message": "Nie jestem pewien, do czego to służy?"
+   },
+   "optionsLabelDepthScreenshot": {
+      "message": "Filtr głębi kolorów (1 - wyłączony)"
+   },
+   "optionsLabelDesktopVideo": {
+      "message": "Rozpocznij nagrywanie pulpitu"
+   },
+   "optionsLabelFilenameTemplateScreencast": {
+      "message": "Wzorzec nazwy pliku dla screencastu"
+   },
+   "optionsLabelFilenameTemplateScreenshot": {
+      "message": "Wzorzec nazwy pliku dla zrztu ekranu"
+   },
+   "optionsLabelHideFixedElements": {
+      "message": "Ukryj stałe elementy"
+   },
+   "optionsLabelImageFormat": {
+      "message": "Format"
+   },
+   "optionsLabelImageQuality": {
+      "message": "Jakość"
+   },
+   "optionsLabelKeepOriginalResolution": {
+      "message": "Zachowaj oryginalną rozdzielczość (dla Retiny)"
+   },
+   "optionsLabelLoadToNS": {
+      "message": "Wyślij do Nimbusa/Slacka"
+   },
+   "optionsLabelPauseVideo": {
+      "message": "Wstrzymaj/wznów nagrywanie wideo"
+   },
+   "optionsLabelQuickCaptureEnable": {
+      "message": "Włącz szybki zrzut ekranu (bez otwierania menu)"
+   },
+   "optionsLabelQuickVideoCaptureEnable": {
+      "message": "Włącz szybkie nagrywanie (menu nagrywania wideo będzie zawsze wyświetlane jako pierwsze)"
+   },
+   "optionsLabelQuickVideoCaptureGithubEnable": {
+      "message": "Włącz nagrywanie na Githuba"
+   },
+   "optionsLabelSaveAs": {
+      "message": "Wyświetl okno dialogowe 'Zapisz jako'"
+   },
+   "optionsLabelSaveCropPosition": {
+      "message": "Zapisz pozycję wybranego obszaru"
+   },
+   "optionsLabelShowContentMenu": {
+      "message": "Pokaż w menu kontekstowym"
+   },
+   "optionsLabelShowInfoPrint": {
+      "message": "Wyświetlaj adres URL/datę na wydruku"
+   },
+   "optionsLabelShowNewButton": {
+      "message": "Pokaż 'Nowe' po aktualizacji aplikacji"
+   },
+   "optionsLabelStopVideo": {
+      "message": "Zatrzymaj nagrywanie wideo"
+   },
+   "optionsLabelStreamMenuEnable": {
+      "message": "Włącz natychmiastowe nagrywanie"
+   },
+   "optionsLabelTabVideo": {
+      "message": "Rozpocznij nagrywanie karty/strony"
+   },
+   "optionsLabelTimeScrollEntirePage": {
+      "message": "Czas opóźnienia przewijania całej strony (ms)"
+   },
+   "optionsLabelVideoStorageLimit": {
+      "message": "Zatrzymaj nagrywanie wideo, jeśli na dysku nie ma miejsca"
+   },
+   "optionsLabelWantCapture": {
+      "message": "zrób zrzut ekranu"
+   },
+   "optionsLabelWantVideoCapture": {
+      "message": "zapis"
+   },
+   "optionsMainMenu": {
+      "message": "Ustawienia w menu głównym"
+   },
+   "optionsSettingImage": {
+      "message": "Ustawienia obrazu"
+   },
+   "optionsSettingsSave": {
+      "message": "Zapisz ustawienia"
+   },
+   "optionsShortcutSettings": {
+      "message": "Ustawienia klawiszy skrótu"
+   },
+   "optionsTitle": {
+      "message": "Ustawienia"
+   },
+   "optionsVideo": {
+      "message": "Wideo"
+   },
+   "optionsVideoCaptureGithub": {
+      "message": "Github"
+   },
+   "optionsVideoCaptureSettings": {
+      "message": "Ustawienia screencastu"
+   },
+   "optionsWatermark": {
+      "message": "Znak wodny"
+   },
+   "panelActions": {
+      "message": "Działania"
+   },
+   "panelAlfaChanel": {
+      "message": "Przesuń suwak, aby zmienić przezroczystość"
+   },
+   "panelCancel": {
+      "message": "Anuluj"
+   },
+   "panelChange": {
+      "message": "Zmień"
+   },
+   "panelHeight": {
+      "message": "Wysokość"
+   },
+   "panelParameters": {
+      "message": "Parametery"
+   },
+   "panelProportional": {
+      "message": "Proporcjonalne"
+   },
+   "panelShadow": {
+      "message": "Cień"
+   },
+   "panelSize": {
+      "message": "Rozmiar"
+   },
+   "panelTools": {
+      "message": "Narzędzia do rysowania"
+   },
+   "panelWidth": {
+      "message": "Szerokość"
+   },
+   "popupAccessMic": {
+      "message": "Na początek musisz zezwolić na dostęp do mikrofonu"
+   },
+   "popupActionMessageCrop": {
+      "message": "Trzymając wciśnięty przycisk myszy, wybierz żądany fragment. Następnie zapisz go lub wyślij do edytora."
+   },
+   "popupActionMessageFragmentScroll": {
+      "message": "Wybierz żądany fragment i kliknij go. Następnie zapisz go lub wyślij do edytora."
+   },
+   "popupAfterCapture": {
+      "message": "Akcja po przechwyceniu"
+   },
+   "popupAutoDeleteDrawing": {
+      "message": "Automatyczne usuwanie rysunku"
+   },
+   "popupAutoDeleteDrawingDescription": {
+      "message": "Możesz określić czas, po upływie którego narysowane figury zostaną usunięte podczas nagrywania wideo"
+   },
+   "popupAutomationCancelButton": {
+      "message": "Stop"
+   },
+   "popupAutomationHideButton": {
+      "message": "Ukryj"
+   },
+   "popupAutomationStorageLimit": {
+      "message": "Na dysku jest tylko niewielka ilość wolnego miejsca. Nie gwarantujemy stabilnego nagrania wideo. Zwolnij miejsce na dysku i kliknij Kontynuuj nagrywanie. Kliknij Zatrzymaj, jeśli chcesz zakończyć nagrywanie."
+   },
+   "popupAutomationStreamError": {
+      "message": "Przepraszamy, serwer nagrywający jest obecnie niedostępny. Spróbuj ponownie później lub użyj nagrania lokalnego."
+   },
+   "popupAutomationUpload": {
+      "message": "Trochę cierpliwości... Wgrywanie... Wkrótce wszystko będzie..."
+   },
+   "popupAutomationUploadStream": {
+      "message": "Trochę cierpliwości... Przetwarzamy Twój strumień wideo do Nimbusa."
+   },
+   "popupAutomationWelcome": {
+      "message": "Z przyjemnością informujemy, że dodaliśmy nową funkcję nagrywania i wstawiania filmów bezpośrednio do biletów Github."
+   },
+   "popupAutomationWelcomeButton": {
+      "message": "Włącz"
+   },
+   "popupBitrateAudioLabel": {
+      "message": "Bitrate dźwięku"
+   },
+   "popupBitrateVideoLabel": {
+      "message": "Bitrate wideo"
+   },
+   "popupBtnBack": {
+      "message": "wróć"
+   },
+   "popupBtnCameraRecord": {
+      "message": "Tylko kamera internetowa"
+   },
+   "popupBtnDesktopRecord": {
+      "message": "Pulpit"
+   },
+   "popupBtnResetVideoSetting": {
+      "message": "Resetowanie ustawień"
+   },
+   "popupBtnStartRecord": {
+      "message": "Rozpocznij nagrywanie"
+   },
+   "popupBtnStartStream": {
+      "message": "Rozpocznij natychmiastowe nagrywanie"
+   },
+   "popupBtnStopPause": {
+      "message": "Pauza"
+   },
+   "popupBtnStopRecord": {
+      "message": "Zatrzymaj nagrywanie"
+   },
+   "popupBtnStopResume": {
+      "message": "Wznów"
+   },
+   "popupBtnTabRecord": {
+      "message": "Zakładka"
+   },
+   "popupBtnUploadOptionHide": {
+      "message": "Ukryj opcje strumienia"
+   },
+   "popupBtnUploadOptionShow": {
+      "message": "Pokaż opcje strumienia"
+   },
+   "popupButtonAdvertising": {
+      "message": "Nimbus Clipper - Zepnij Wszystko!"
+   },
+   "popupCapturingProgress": {
+      "message": "Przechwytywanie..."
+   },
+   "popupErrorLocalFileMessage": {
+      "message": "Przejdź do ustawień rozszerzenia Chrome i włącz opcję \u003Cstrong>'Zezwól na dostęp do adresu URL pliku,'\u003C/strong>, aby rozszerzenie mogło uzyskać dostęp do tej strony."
+   },
+   "popupErrorLocalFileTitle": {
+      "message": "Potrzebny dostęp do plików"
+   },
+   "popupFrameRateLabel": {
+      "message": "Częstotliwość klatek"
+   },
+   "popupLabelCountdown": {
+      "message": "Odliczanie"
+   },
+   "popupLabelCursorAnimate": {
+      "message": "Animowany kursor"
+   },
+   "popupLabelPrivateUpload": {
+      "message": "Przesyłanie prywatne"
+   },
+   "popupLabelQuickVideoCaptureEnable": {
+      "message": "Jeśli funkcja jest aktywna, możesz nagrać i zapisać wideo za pomocą dwóch kliknięć myszą, pierwszego, aby rozpocząć nagrywanie, a drugiego, aby zatrzymać i zapisać wideo. To naprawdę proste!"
+   },
+   "popupLabelQuickVideoCaptureGithubEnable": {
+      "message": "Nagrywanie wideo w Github jest bardzo proste! Pierwszym kliknięciem zaczynasz nagrywać stronę, a drugim dodajesz ją bezpośrednio do biletu na Github!"
+   },
+   "popupLabelRecordCamera": {
+      "message": "Nagrywaj kamerę internetową"
+   },
+   "popupLabelRecordMic": {
+      "message": "Nagrywaj dźwięk mikrofonu"
+   },
+   "popupLabelRecordTab": {
+      "message": "Nagrywaj dźwięk zakładki"
+   },
+   "popupLabelSelectWorkspace": {
+      "message": "Wybierz przestrzeń roboczą"
+   },
+   "popupLabelSetting": {
+      "message": "Ustawienie"
+   },
+   "popupLabelShowDrawingTools": {
+      "message": "Pokaż narzędzia rysowania"
+   },
+   "popupLabelVideoAnimationCursor": {
+      "message": "Animacja kliknięcia"
+   },
+   "popupLabelVideoSetting": {
+      "message": "Ustawienia wideo"
+   },
+   "popupLabelVideoStorageLimit": {
+      "message": "Nagrywanie wideo jest zatrzymywane, jeśli na dysku jest mniej niż 500 MB wolnego miejsca. Zalecane dla Chromebooków."
+   },
+   "popupMyNotes": {
+      "message": "Moje przesłane pliki"
+   },
+   "popupOpenExtensions": {
+      "message": "Ustawienia rozszerzenia"
+   },
+   "popupReadManual": {
+      "message": "Możesz również zapoznać się z instrukcją korzystania z aplikacji"
+   },
+   "popupRecordAudioCoreLabel": {
+      "message": "Nagranie dźwięku"
+   },
+   "popupRecordCoreAdvancedLabel": {
+      "message": "Zaawansowane"
+   },
+   "popupRecordCoreDefaultLabel": {
+      "message": "Domyślne wyjście"
+   },
+   "popupRecordTitle": {
+      "message": "Wideo jest nagrywane"
+   },
+   "popupRecordTypeTitle": {
+      "message": "Co chcesz nagrać"
+   },
+   "popupRecordVideoCoreLabel": {
+      "message": "Nagranie wideo"
+   },
+   "popupRecordWantTitle": {
+      "message": "Jak chcesz nagrać"
+   },
+   "popupSec": {
+      "message": "sek."
+   },
+   "popupSelectMicLabel": {
+      "message": "Mikrofon"
+   },
+   "popupSelectWebCamLabel": {
+      "message": "Kamera internetowa"
+   },
+   "popupSizeAutoDescription": {
+      "message": "(aktualna rozdzielczość)"
+   },
+   "popupSizeAutoLabel": {
+      "message": "Auto"
+   },
+   "popupTitle": {
+      "message": "Nimbus Capture"
+   },
+   "popupVideoEditorCrop": {
+      "message": "Wybierz region, który chcesz przyciąć i naciśnij znacznik wyboru."
+   },
+   "popupVideoEditorTrim": {
+      "message": "Używając niebieskich znaczników, wybierz część wideo, którą chcesz przyciąć, i kliknij na Usuń wybrane."
+   },
+   "popupVideoEditorWelcomeDescription": {
+      "message": "Tutaj możesz łatwo przycinać i przycinać swoje filmy. \u003Ca href='https://nimbusweb.me/s/share/3636848/d89qs8v6i4nbw3l6hefq' target='_blank'>Przeczytaj podręcznik użytkownika,\u003C/a> aby dowiedzieć się, jak pracować z edytorem."
+   },
+   "popupVideoEditorWelcomeTitle": {
+      "message": "Witamy w edytorze wideo!"
+   },
+   "popupVideoLimitMessage": {
+      "message": "\u003Cb>Limit 5 minut na film.\u003C/b> Uaktualnij do nieograniczonego nagrywania i innych funkcji premium."
+   },
+   "popupVideoQualityTitle": {
+      "message": "Jakość obrazu i dźwięku"
+   },
+   "popupVideoReEncoding": {
+      "message": "Włącz ponowne kodowanie wideo"
+   },
+   "popupVideoReEncodingTitle": {
+      "message": "Ta opcja dostosowuje długość osi czasu. Jeśli wyłączysz tę opcję, przetwarzanie wideo (po zatrzymaniu nagrywania) będzie znacznie szybsze na wolnych komputerach, ale w niektórych przypadkach przewijanie osi czasu nie będzie działać. (Zalecane w przypadku wolnych komputerów lub Chrome Books)"
+   },
+   "popupVideoTitle": {
+      "message": "Nagraj wideo"
+   },
+   "popupWelcomeVideo": {
+      "message": "Witamy w nagraniu wideo"
+   },
+   "popupYoutubeChannel": {
+      "message": "Musisz posiadać kanał Youtube'a"
+   },
+   "popupYoutubeChannelCreates": {
+      "message": "Aby przesłać nagrane filmy na YouTube, musisz utworzyć kanał YouTube."
+   },
+   "rateNotShow": {
+      "message": "Nie pokazuj tego ponownie"
+   },
+   "rateRate": {
+      "message": "Oceń Nimbus Capture"
+   },
+   "rateText": {
+      "message": "Lubisz Nimbus Capture?\u003Cbr>Napisz swoją recenzję! Dziękuję."
+   },
+   "tooltipArrowCurve": {
+      "message": "Krzywa strzałki"
+   },
+   "tooltipArrowDouble": {
+      "message": "Podwójna strzałka"
+   },
+   "tooltipArrowLine": {
+      "message": "Linia strzałki"
+   },
+   "tooltipBlur": {
+      "message": "Obszar rozmycia"
+   },
+   "tooltipBtnQuickUpload": {
+      "message": "Send to Nimbus Note"
+   },
+   "tooltipChangeZoom": {
+      "message": "Zmień powiększenie"
+   },
+   "tooltipCircle": {
+      "message": "Okrąg"
+   },
+   "tooltipColorAndSizeShadow": {
+      "message": "Kolor i rozmiar cienia"
+   },
+   "tooltipColorFull": {
+      "message": "Wypełnienie kolorem"
+   },
+   "tooltipColorLineAndText": {
+      "message": "Kolorowa linia i tekst"
+   },
+   "tooltipCopy": {
+      "message": "Skopiuj do schowka"
+   },
+   "tooltipCrop": {
+      "message": "Przytnij"
+   },
+   "tooltipEditBtnBack": {
+      "message": "Wróć"
+   },
+   "tooltipEditBtnDrive": {
+      "message": "Wyślij na Dysk Google"
+   },
+   "tooltipEditBtnDropbox": {
+      "message": "Wyślij do Dropboxa"
+   },
+   "tooltipEditBtnNimbus": {
+      "message": "Wyślij do Nimbusa"
+   },
+   "tooltipEditBtnSlack": {
+      "message": "Wyślij do Slacka"
+   },
+   "tooltipEditBtnYoutube": {
+      "message": "Opublikuj na Youtube"
+   },
+   "tooltipEllipse": {
+      "message": "Elipsa"
+   },
+   "tooltipFontAndSize": {
+      "message": "Czcionka i rozmiar"
+   },
+   "tooltipFormula": {
+      "message": "Wstaw formułę"
+   },
+   "tooltipLine": {
+      "message": "Linia"
+   },
+   "tooltipLineCurve": {
+      "message": "Krzywa linii"
+   },
+   "tooltipLineDotted": {
+      "message": "Linia przerywana"
+   },
+   "tooltipLineWidth": {
+      "message": "Szerokość linii"
+   },
+   "tooltipLock": {
+      "message": "Zablokuj dane"
+   },
+   "tooltipMakeScreenshot": {
+      "message": "Zrób zrzut ekranu"
+   },
+   "tooltipMarker": {
+      "message": "Znacznik"
+   },
+   "tooltipNoteText": {
+      "message": "Tekst notatki"
+   },
+   "tooltipNumber": {
+      "message": "Ponumerowane znaczniki"
+   },
+   "tooltipNumbers": {
+      "message": "Autonumeracja"
+   },
+   "tooltipOpenFile": {
+      "message": "Umieść obraz"
+   },
+   "tooltipOptions": {
+      "message": "Ustawienia"
+   },
+   "tooltipOptionsWatermark": {
+      "message": "Ustawienia znaku wodnego"
+   },
+   "tooltipPassInfo": {
+      "message": "Hasło musi składać się z co najmniej 8 znaków"
+   },
+   "tooltipPassMatch": {
+      "message": "Hasła nie pasują do siebie"
+   },
+   "tooltipPen": {
+      "message": "Długopis"
+   },
+   "tooltipRedo": {
+      "message": "Ponów"
+   },
+   "tooltipResize": {
+      "message": "Zmień rozmiar"
+   },
+   "tooltipRounded": {
+      "message": "Zaokrąglony"
+   },
+   "tooltipShortUrl": {
+      "message": "Krótki URL"
+   },
+   "tooltipSquare": {
+      "message": "Kwadrat"
+   },
+   "tooltipText": {
+      "message": "Tekst"
+   },
+   "tooltipTextArrow": {
+      "message": "Strzałka tekstu"
+   },
+   "tooltipTrim": {
+      "message": "Przytnij"
+   },
+   "tooltipUndo": {
+      "message": "Cofnij"
+   },
+   "tooltipUndoAll": {
+      "message": "Cofnij wszystko"
+   },
+   "tooltipUploadTo": {
+      "message": "Prześlij do"
+   },
+   "tooltipVideoEditor": {
+      "message": "Przytnij"
+   },
+   "tooltipWrongEmail": {
+      "message": "Zły email"
+   },
+   "tooltipZoomMinus": {
+      "message": "Pomniejszenie -"
+   },
+   "tooltipZoomPlus": {
+      "message": "Powiększenie +"
+   },
+   "tooltipclassroomSend": {
+      "message": "Wyślij do Google Classroom"
+   },
+   "videoCanvas": {
+      "message": "Pusta strona"
+   },
+   "videoConvert": {
+      "message": "Konwertuj"
+   },
+   "videoConvertFrameRate": {
+      "message": "Częstotliwość wyświetlania klatek"
+   },
+   "videoConvertInfo": {
+      "message": "Konwersja wideo do formatu MP4 lub GIF może zająć trochę czasu. Będziesz mógł zapisać plik wideo zaraz po zakończeniu konwersji."
+   },
+   "videoConvertOpen": {
+      "message": "Konwertuj na MP4 lub Gif"
+   },
+   "videoConvertSize": {
+      "message": "Rozmiar"
+   },
+   "videoEditor": {
+      "message": "Edytor wideo"
+   },
+   "videoEditorTimeline": {
+      "message": "Powiększenie osi czasu"
+   },
+   "videoEditorTrimApply": {
+      "message": "Usuń wybrane"
+   },
+   "videoEditorTrimCancel": {
+      "message": "Anuluj"
+   },
+   "videoPanelAnimatedCursor": {
+      "message": "Animowany kursor - Alt+L"
+   },
+   "videoPanelArrow": {
+      "message": "Strzałka - Alt+A"
+   },
+   "videoPanelCamera": {
+      "message": "Włącz/wyłącz kamerę internetową"
+   },
+   "videoPanelCheckmark": {
+      "message": "Zaznaczenie - Alt+C"
+   },
+   "videoPanelClear": {
+      "message": "Wyczyść - Alt+N"
+   },
+   "videoPanelClearAll": {
+      "message": "Wyczyść wszystko - Alt+U"
+   },
+   "videoPanelFocusMouse": {
+      "message": "Focus mouse - Alt+G"
+   },
+   "videoPanelHideShowPanel": {
+      "message": "Ukryj/pokaż panel - Alt+V"
+   },
+   "videoPanelMark": {
+      "message": "Znak - Alt+M"
+   },
+   "videoPanelPen": {
+      "message": "Długopis - Alt+P"
+   },
+   "videoPanelQuestion": {
+      "message": "Pytanie - Alt+Q"
+   },
+   "videoPanelSimpleCursor": {
+      "message": "Prosty kursor - Alt+S"
+   },
+   "videoPanelSquare": {
+      "message": "Kwadrat - Alt+R"
+   },
+   "watermarkLimit": {
+      "message": "Maksymalny rozmiar znaku wodnego -1 mb"
+   },
+   "watermarkUnsupported": {
+      "message": "Niewspierany format pliku"
+   },
+   "youtubeCreate": {
+      "message": "Stwórz"
+   },
+   "youtubeName": {
+      "message": "Nazwa"
+   },
+   "youtubeNoPlaylist": {
+      "message": "Bez listy odtwarzania"
+   },
+   "youtubePlaylist": {
+      "message": "Lista odtwarzania"
+   },
+   "youtubePrivate": {
+      "message": "Prywatne"
+   },
+   "youtubePublic": {
+      "message": "Publiczne"
+   },
+   "youtubeUnlisted": {
+      "message": "Nie katalogowany"
+   }
+}

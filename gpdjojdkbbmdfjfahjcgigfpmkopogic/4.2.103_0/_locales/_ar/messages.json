@@ -1,0 +1,138 @@
+{
+  "extName": {
+    "message": "الزر \"حفظ\" في Pinterest",
+    "description": "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription": {
+    "message": "احفظ أفكارك المفضلة على الإنترنت حتى يمكنك العودة إليها لاحقًا بسهولة.",
+    "description": "The extension's description, seen in gallery and extensions page"
+  },
+  "noPinDomain": {
+    "message": "عذرًا، لا يُسمح بتثبيت المنشورات من هذا النطاق. يُرجى التواصل مع مسؤول الموقع إذا كان لديك أي أسئلة.",
+    "description": "The default message we alert when someone tries to use the browser button on a forbidden domain"
+  },
+  "optionTitle": {
+    "message": "خيارات الزر \"حفظ\"",
+    "description": "Title for the Options page"
+  },
+  "optionHide": {
+    "message": "إخفاء أزرار \"الحفظ\" المتنقلة",
+    "description": "Text next to the checkbox that turns off hoverbuttons"
+  },
+  "searchAction": {
+    "message": "بحث",
+    "description": "Appears in the right-click-to-search menu item"
+  },
+  "saveAction": {
+    "message": "حفظ",
+    "description": "Appears wherever we show a Save button or menu prompt"
+  },
+  "choosePinMultiSelectHeader": {
+    "message": "حفظ الأفكار على Pinterest",
+    "description": "New header message in the image picker overlay"
+  },
+  "choosePinSelectAllSubHeader": {
+    "message": "حدد ما يصل إلى عشرين صورة",
+    "description": "Subheader in the image picker overlay"
+  },
+  "nextAction": {
+    "message": "التالي",
+    "description": "Press this button to go to the Create view when multiple images are selected"
+  },
+  "selectAll": {
+    "message": "تحديد الكل",
+    "description": "Text next to the checkbox that selects all images on the grid"
+  },
+  "boardPickerOpenerLabel": {
+    "message": "الحفظ إلى لوحة",
+    "description": "Label in inline board picker"
+  },
+  "boardPickerSuccessLabel": {
+    "message": "تم الحفظ في",
+    "description": "Label in inline board picker after pin creation"
+  },
+  "visitButton": {
+    "message": "زيارة",
+    "description": "Pin create success button to visit pin"
+  },
+  "help": {
+    "message": "المساعدة",
+    "description": "Get help after a Pin create failure"
+  },
+  "chooseBoard": {
+    "message": "اختيار لوحة",
+    "description": "main header in Save form"
+  },
+  "topChoices": {
+    "message": "أفضل الخيارات",
+    "description": "interstitial header in board list"
+  },
+  "allBoards": {
+    "message": "كل اللوحات",
+    "description": "interstitial header in board list"
+  },
+  "createBoard": {
+    "message": "إنشاء لوحة",
+    "description": "header in Create form"
+  },
+  "addFormSecretLabel": {
+    "message": "سري",
+    "description": "label over secret/not-secret switch"
+  },
+  "chooseSection": {
+    "message": "اختيار قسم",
+    "description": "label for board sections"
+  },
+  "addSection": {
+    "message": "إضافة قسم",
+    "description": "label to add section"
+  },
+  "optYes": {
+    "message": "نعم",
+    "description": "switch option yes"
+  },
+  "optNo": {
+    "message": "لا",
+    "description": "switch option no"
+  },
+  "closeAddForm": {
+    "message": "إلغاء",
+    "description": "cancel create"
+  },
+  "submitAddForm": {
+    "message": "إنشاء",
+    "description": "create new board"
+  },
+  "msgBoardFail": {
+    "message": "تعذَّر إنشاء لوحة جديدة",
+    "description": "board create fail"
+  },
+  "msgPinFail": {
+    "message": "تعذَّر حفظ هذه الصفحة",
+    "description": "pin create fail"
+  },
+  "msgLoginFail": {
+    "message": "عذرًا، يوجد خطأ ما هنا. يُرجى التحقق من تسجيل دخولك إلى Pinterest وحاول مجددًا.",
+    "description": "Message shown when someone's login changes while the board picker is open"
+  },
+  "msgOops": {
+    "message": "عفوًا!",
+    "description": "error header"
+  },
+  "msgHelp": {
+    "message": "احصل على المساعدة",
+    "description": "get help button"
+  },
+  "authHelpHead": {
+    "message": "انتبه!",
+    "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!"
+  },
+  "authHelpBody": {
+    "message": "يبدو أنك لست قيد تسجيل الدخول إلى Pinterest. دعنا نصلح هذا!",
+    "description": "If you're not signed in, here's what we'll do when you click the button below"
+  },
+  "signIn": {
+    "message": "تسجيل الدخول",
+    "description": "Click this button to sign in on Pinterest"
+  }
+}

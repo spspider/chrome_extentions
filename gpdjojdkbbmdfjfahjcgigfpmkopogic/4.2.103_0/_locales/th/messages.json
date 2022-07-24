@@ -1,0 +1,138 @@
+{
+   "addFormSecretLabel": {
+      "description": "label over secret/not-secret switch",
+      "message": "เป็นความลับ"
+   },
+   "addSection": {
+      "description": "label to add section",
+      "message": "เพิ่มหมวดบอร์ด"
+   },
+   "allBoards": {
+      "description": "interstitial header in board list",
+      "message": "บอร์ดทั้งหมด"
+   },
+   "authHelpBody": {
+      "description": "If you're not signed in, here's what we'll do when you click the button below",
+      "message": "ดูเหมือนว่าคุณไม่ได้ลงชื่อเข้าใช้ Pinterest มาแก้ไขกันเถอะ"
+   },
+   "authHelpHead": {
+      "description": "You're not signed in. Let's get your attention with this headline. Might also be Hey! or Oops!",
+      "message": "นี่ๆ"
+   },
+   "boardPickerOpenerLabel": {
+      "description": "Label in inline board picker",
+      "message": "บันทึกไปที่บอร์ด"
+   },
+   "boardPickerSuccessLabel": {
+      "description": "Label in inline board picker after pin creation",
+      "message": "บันทึกไปที่"
+   },
+   "chooseBoard": {
+      "description": "main header in Save form",
+      "message": "เลือกบอร์ด"
+   },
+   "choosePinMultiSelectHeader": {
+      "description": "New header message in the image picker overlay",
+      "message": "บันทึกไอเดียไว้ใน Pinterest"
+   },
+   "choosePinSelectAllSubHeader": {
+      "description": "Subheader in the image picker overlay",
+      "message": "เลือกรูปภาพได้สูงสุด 20 ภาพ"
+   },
+   "chooseSection": {
+      "description": "label for board sections",
+      "message": "เลือกหมวดบอร์ด"
+   },
+   "closeAddForm": {
+      "description": "cancel create",
+      "message": "ยกเลิก"
+   },
+   "createBoard": {
+      "description": "header in Create form",
+      "message": "สร้างบอร์ด"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "บันทึกไอเดียโปรดแบบออนไลน์เพื่อให้กลับมาดูในภายหลังได้ง่ายๆ"
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "ปุ่มบันทึกของ Pinterest"
+   },
+   "help": {
+      "description": "Get help after a Pin create failure",
+      "message": "ความช่วยเหลือ"
+   },
+   "msgBoardFail": {
+      "description": "board create fail",
+      "message": "ไม่สามารถสร้างบอร์ดใหม่"
+   },
+   "msgHelp": {
+      "description": "get help button",
+      "message": "ขอความช่วยเหลือ"
+   },
+   "msgLoginFail": {
+      "description": "Message shown when someone's login changes while the board picker is open",
+      "message": "ขออภัย มีบางอย่างผิดปกติ โปรดตรวจสอบว่าคุณลงชื่อเข้าใช้ Pinterest แล้วลองอีกครั้ง"
+   },
+   "msgOops": {
+      "description": "error header",
+      "message": "อ๊ะ!"
+   },
+   "msgPinFail": {
+      "description": "pin create fail",
+      "message": "ไม่สามารถบันทึกหน้านี้"
+   },
+   "nextAction": {
+      "description": "Press this button to go to the Create view when multiple images are selected",
+      "message": "ถัดไป"
+   },
+   "noPinDomain": {
+      "description": "The default message we alert when someone tries to use the browser button on a forbidden domain",
+      "message": "ขออภัย โดเมนนี้ไม่อนุญาตให้ปักพิน โปรดติดต่อผู้ดูแลเว็บไซต์หากมีข้อสงสัย"
+   },
+   "optNo": {
+      "description": "switch option no",
+      "message": "ไม่"
+   },
+   "optYes": {
+      "description": "switch option yes",
+      "message": "ใช่"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "ซ่อนปุ่มบันทึกแบบเลื่อนเมาส์มาวาง"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "ตัวเลือกปุ่มบันทึก"
+   },
+   "saveAction": {
+      "description": "Appears wherever we show a Save button or menu prompt",
+      "message": "บันทึก"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "ค้นหา"
+   },
+   "selectAll": {
+      "description": "Text next to the checkbox that selects all images on the grid",
+      "message": "เลือกทั้งหมด"
+   },
+   "signIn": {
+      "description": "Click this button to sign in on Pinterest",
+      "message": "เข้าสู่ระบบ"
+   },
+   "submitAddForm": {
+      "description": "create new board",
+      "message": "สร้าง"
+   },
+   "topChoices": {
+      "description": "interstitial header in board list",
+      "message": "ตัวเลือกยอดนิยม"
+   },
+   "visitButton": {
+      "description": "Pin create success button to visit pin",
+      "message": "เข้าชม"
+   }
+}
